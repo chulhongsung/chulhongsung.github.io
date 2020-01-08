@@ -13,16 +13,16 @@
 # theme                  : "minimal-mistakes-jekyll"
 
 remote_theme             : mmistakes/minimal-mistakes
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "Korea"
-title                    : "Vanilla Data Studio"
+title                    : "chulhongsung"
 title_separator          : " "
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "안승환"
+name                     : "홍성철"
 description              : "데이터 분석에 관한 블로그입니다!"
-url                      : "https://an-seunghwan.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://chulhongsung.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -33,7 +33,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "an-seunghwan-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "chulhongsung-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -100,33 +100,33 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-155217576-1"
+    tracking_id          : 
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
-  name             : "안승환"
+  name             : "홍성철"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "서울시립대학교 통계학과 학부과정"
+  bio              : "서울시립대학교 통계학과 석사과정"
   location         : "대한민국, 서울시"
   email            : # "dpeltms79@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:dpeltms79@gmail.com
+      url: mailto:chulhongsung@gmail.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/an-seunghwan"
+      url: "https://github.com/chulhongsung"
 
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/an-seunghwan"
+      url: "https://github.com/chulhongsung"
 
 # Reading Files
 include:
