@@ -1,9 +1,13 @@
 ---
-title: "홍성철"
+title: "소개"
 permalink: /about/
 layout: single
 ---
-<img width = "400" heigth = "600" src = https://github.com/chulhongsung/chulhongsung.github.io/blob/master/assets/img/hong-img2.jpg>
+![profile](/assets/img/hong-img2.jpg){: width="400" height="600"}
+
+2019년 연구실 식구들과 상해 여행 중
+
+### 홍성철
 
 
 학력.
