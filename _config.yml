@@ -18,10 +18,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "Korea"
 title                    : "chulhongsung"
-title_separator          : " "
+title_separator          : "저장 공간"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "홍성철"
-description              : "데이터 분석에 관한 블로그입니다!"
+description              : "!"
 url                      : "https://chulhongsung.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
