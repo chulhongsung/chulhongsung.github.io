@@ -5,20 +5,21 @@ layout: single
 ---
 ![profile](/assets/img/hong-img2.jpg){: width="400" height="600"}
 
-2019년 1월 연구실 식구들과 상해 여행 중
 
-# 홍성철(Sung-Chul Hong)
+2019년 1월 연구실 식구들과 상해 여행 중(Travel to Shanghai in January 2019 with Lab members)
+
+# 홍 성 철 (Sung-Chul Hong)
 
 
-### 학력.
-  - 2012.03 ~ 2018.02 : 서울시립대학교 통계학과
-  - 2018.03 ~ 현재 : 서울시립대학교 통계학과 석사과정
-
-----------------
-
-### 연구 분야. 
-- ADMM 알고리즘과 응용
+### Education.
+  - 2012.03 ~ 2018.02 : University of Seoul, Seoul, South Korea (B.S. in Statistics) 
+  - 2018.03 ~ : University of Seoul, Seoul, South Korea (Master Course in Statistics) 
 
 ----------------
-### 컴퓨터 언어.
-- 주로 R을 사용하고 python과 julia도 공부 중
+
+### Research. 
+- ADMM(Alternating Direction Method of Multipliers) algorithm  and its application.
+
+----------------
+### Computer Language.
+- R, Python and julia
