@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "Korea"
 title                    : "chulhongsung"
-title_separator          : "저장 공간"
+title_separator          : "Statistics & Machine Learning"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "홍성철"
 description              : "!"
