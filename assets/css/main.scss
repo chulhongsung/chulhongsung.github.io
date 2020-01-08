@@ -1,0 +1,26 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR&display=swap');
+
+html {
+  font-size: 11px; // change to whatever
+
+  @include breakpoint($medium) {
+    font-size: 13.5px; // change to whatever
+  }
+
+  @include breakpoint($large) {
+    font-size: 15.5px; // change to whatever
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 17.5px; // change to whatever
+  }
+}
