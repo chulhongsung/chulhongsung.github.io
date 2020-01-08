@@ -111,8 +111,8 @@ author:
   name             : "홍성철"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "서울시립대학교 통계학과 석사과정"
-  location         : "대한민국, 서울시"
-  email            : # "dpeltms79@gmail.com"
+  location         : "South Korea"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
