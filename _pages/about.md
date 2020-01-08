@@ -7,7 +7,7 @@ layout: single
 
 2019년 1월 연구실 식구들과 상해 여행 중
 
-# 홍성철
+# 홍성철(Sung-Chul Hong)
 
 
 ### 학력.
