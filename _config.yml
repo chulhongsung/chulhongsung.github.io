@@ -90,7 +90,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/img/profile%20img.jpg"
+og_image                 : 
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -114,9 +114,6 @@ author:
   location         : "Seoul, South Korea"
   email            :
   links:
-    - label: "University of Seoul"
-      icon: "fas fa-fw fa-landmark"
-      url:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:chulhongsung@gmail.com
