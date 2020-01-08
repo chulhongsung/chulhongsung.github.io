@@ -1,9 +1,9 @@
 ---
-title: "Hello"
+title: "홍성철"
 permalink: /about/
 layout: single
 ---
-<img width = "400" heigth = "600" src = https://github.com/chulhongsung/chulhongsung.github.io/blob/master/assets/img/hong-img2.jpg?raw=true>
+<img width = "400" heigth = "600" src = https://github.com/chulhongsung/chulhongsung.github.io/blob/master/assets/img/hong-img2.jpg>
 
 
 학력.
