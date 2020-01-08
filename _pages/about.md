@@ -3,7 +3,7 @@ title: "Hello"
 permalink: /about/
 layout: single
 ---
-
+<img width = "400" heigth = "600" src = https://github.com/chulhongsung/chulhongsung.github.io/blob/master/assets/img/hong-img2.jpg?raw=true>
 
 
 학력.
