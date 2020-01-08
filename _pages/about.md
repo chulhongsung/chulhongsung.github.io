@@ -1,5 +1,5 @@
 ---
-title: "소개합니다!"
+title: "Hello"
 permalink: /about/
 layout: single
 ---
