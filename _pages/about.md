@@ -6,7 +6,8 @@ layout: single
 ![profile](/assets/img/hong-img2.jpg){: width="500" height="600"}
 
 
-2019년 1월 연구실 식구들과 상해 여행 중(Travel to Shanghai in January 2019 with Lab members)
+2019년 1월 연구실 식구들과 상해 여행
+Travel to Shanghai in January 2019 with Lab members
 
 # 홍 성 철 (Sung-Chul Hong)
 
