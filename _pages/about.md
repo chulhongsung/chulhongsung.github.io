@@ -5,7 +5,7 @@ layout: single
 ---
 ![profile](/assets/img/hong-img2.jpg){: width="400" height="600"}
 
-(2019년 연구실 식구들과 상해 여행 중)
+2019년 연구실 식구들과 상해 여행 중
 
 ### 홍성철
 
