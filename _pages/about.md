@@ -3,7 +3,7 @@ title: "홍성철"
 permalink: /about/
 layout: single
 ---
-![title](/img/hong-img2.jpg){: width="400" height="600"}
+![profile](/assets/img/hong-img2.jpg){: width="400" height="600"}
 
 학력.
   - 2012.03 ~ 2018.02 : 서울시립대학교 통계학과
