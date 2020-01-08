@@ -114,7 +114,7 @@ author:
   location         : "Seoul, South Korea"
   email            :
   links:
-    - label: "University of Seoul, Statistics"
+    - label: "University of Seoul"
       icon: "fas fa-fw fa-users"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
