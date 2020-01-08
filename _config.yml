@@ -114,6 +114,8 @@ author:
   location         : "Seoul, South Korea"
   email            :
   links:
+    - label: "University of Seoul, Statistics"
+      icon: "fas fa-fw fa-users"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:chulhongsung@gmail.com
