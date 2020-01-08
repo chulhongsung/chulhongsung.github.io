@@ -116,6 +116,7 @@ author:
   links:
     - label: "University of Seoul"
       icon: "fas fa-fw fa-users"
+      url: ""
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:chulhongsung@gmail.com
