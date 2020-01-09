@@ -7,15 +7,15 @@ layout: single
 
 
 2019년 1월 연구실 식구들과 상해 여행  
-Travel to Shanghai in January 2019 with Lab members
+Travel to Shanghai in January 2019 with Lab members.
 
 # 홍 성 철 (Sung-Chul Hong)
 
 
 ### Education.
-  - 2012.03 ~ 2018.02 : University of Seoul, Seoul, South Korea (B.S. in Statistics) 
-  - 2018.03 ~ : University of Seoul, Seoul, South Korea (Master Course in Statistics) 
-
+  - 2012.03 ~ 2018.02 : University of Seoul, Seoul, South Korea (B.S. in Statistics). 
+  - 2018.03 ~ 2020.02 : University of Seoul, Seoul, South Korea (M.S. in Statistics).
+  - 2020.03 ~ : University of Seoul, Seoul, South Korea (Ph.D course).
 ----------------
 
 ### Research. 
@@ -23,4 +23,4 @@ Travel to Shanghai in January 2019 with Lab members
 
 ----------------
 ### Computer Language.
-- R, Python and julia
+- R, Python and julia.
