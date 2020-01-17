@@ -23,8 +23,8 @@ tags:
 ###  <span style="color:#00ADB5;"> The Regression Approach to Portfolio Analysis</span>
 
 $$
-r^{\top}_t = (r_{1t}, )
+r^{\top}_t = (r_{1,t}, \dots, r_{N,t} )
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNjQxNDAxMSwyMDQwNTExNDgxXX0=
+eyJoaXN0b3J5IjpbMjk4NzM2NTk0LDIwNDA1MTE0ODFdfQ==
 -->
