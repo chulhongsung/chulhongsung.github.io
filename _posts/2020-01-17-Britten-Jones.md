@@ -16,7 +16,7 @@ tags:
 ---
 
 ### <span style="color:#F7DC6F;">The Sampling Error in Estimates of Mean-Variance Efficient Portfolio Weights</span>
-
+-------------
 이 논문은 ["Optimal Portfolio Selection using Regularization"](https://chulhongsung.github.io/논문%20읽기/포트폴리오정규화(1)/) 논문을 이해하는데 좋은 참고자료가 되기에 내용을 정리한다. 1장에서 포트폴리오와 회귀분석과의 관계를 이해시켜준다. 따라서 그 부분만을 정리한다. Notation은 기존의 "Optimal Portfolio Selection using Regularization"의 논문과 동일하다.
 
 ###  <span style="color:#00ADB5;"> The Regression Approach to Portfolio Analysis</span>
@@ -73,7 +73,7 @@ $$
 
 잔차의 평균, $\bar{u}$는 $\bar{r}^{\top}\hat{\beta} = 1-\bar{u}$를 만족한다. 위의 그림에서 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjc5MjI3Niw2OTc4MzQzMTAsMTM4OT
+eyJoaXN0b3J5IjpbLTg0Nzc5NjcxMyw2OTc4MzQzMTAsMTM4OT
 YwMzY5MCw1MTE1NDE2NDEsMTU5MTA5NzI1LDQ1NDkwNjcxOSwy
 MDQwNTExNDgxXX0=
 -->
