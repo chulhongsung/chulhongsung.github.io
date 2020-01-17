@@ -52,7 +52,7 @@ $$
 <span style="color:#DAF7A6;">꼭 1이어야만 하나?<span>
 >논문에서 단순하게 "arbitrage profit"에 대응되는 개념이라고 하는데 양수 수익률과 분산이 0인 수익률로 매우 "desirable" 수익률이라고 소개한다. 1이라는 특정한 값이 중요한 것은 아닌거 같다. 결과를 구해보니 1이었던 것이 아닐까? 라는 생각을 해본다.
 
-![1](https://user-images.githubusercontent.com/37679460/72590792-ef612500-3941-11ea-9768-562e8a73661e.PNG)
+![mean-sd diagram](https://user-images.githubusercontent.com/37679460/72590792-ef612500-3941-11ea-9768-562e8a73661e.PNG)
  
 위의 그림에서  x축은 포트폴리오 수익률의 표준편차, y축은 포트폴리오 수익률의 평균이다. $(0,1)$이 있는 곳이 $1_T$를 의미한다고 생각하면 된다(평균수익률은 1이고 표준편차가 0). 그리고 포트폴리오는 C자형 곡선 위를 움직인다. 즉, feasible set이고 feasible set은 원점 $O$와 $d$를 잇는 직선을 상한으로 가진다. 
 
@@ -73,7 +73,7 @@ $$
 
 잔차의 평균, $\bar{u}$는 $\bar{r}^{\top}\hat{\beta} = 1-\bar{u}$를 만족한다. 위의 그림에서 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODk4NzM3MCw2OTc4MzQzMTAsMTM4OT
+eyJoaXN0b3J5IjpbMTkxNjgyMjc4OSw2OTc4MzQzMTAsMTM4OT
 YwMzY5MCw1MTE1NDE2NDEsMTU5MTA5NzI1LDQ1NDkwNjcxOSwy
 MDQwNTExNDgxXX0=
 -->
