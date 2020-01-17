@@ -25,10 +25,15 @@ tags:
 $N$개의 자산에 대한 $t$시점의 excess return vector, $r_{t}$는 다음과 같이 정의한다.
 
 $$
-r^{\top}_t = (r_{1,t}, \dots, r_{N,t} )
+r^{\top}_t = (r_{1,t}, \dots, r_{N,t} ).
 $$
 
-그리고 $T \time$ $R$은 
+그리고 $T \times N$ 행렬 $R$은 다음과 같다.
+
+$$
+R^{\top} = (r_1, \dots, r_{T}).
+$$ 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTg1NTkwNCwyMDQwNTExNDgxXX0=
+eyJoaXN0b3J5IjpbMTE4MTIzMzAwNSwyMDQwNTExNDgxXX0=
 -->
