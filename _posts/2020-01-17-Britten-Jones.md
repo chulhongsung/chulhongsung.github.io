@@ -22,9 +22,13 @@ tags:
 
 ###  <span style="color:#00ADB5;"> The Regression Approach to Portfolio Analysis</span>
 
+$N$개의 자산에 대한 $t$시점의 excess return vector, $r_{t}$는 다음과 같이 정의한다.
+
 $$
 r^{\top}_t = (r_{1,t}, \dots, r_{N,t} )
 $$
+
+그리고 $T \time$ $R$은 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4NzM2NTk0LDIwNDA1MTE0ODFdfQ==
+eyJoaXN0b3J5IjpbLTEzOTg1NTkwNCwyMDQwNTExNDgxXX0=
 -->
