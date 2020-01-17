@@ -54,9 +54,10 @@ $$
 >논문에서 단순하게 "arbitrage profit"에 대응되는 개념이라고 하는데 양수 수익률과 분산이 0인 수익률로 매우 "desirable" 수익률이라고 소개한다. 1이라는 특정한 값이 중요한 것은 아닌거 같다. 결과를 구해보니 1이었던 것이 아닐까? 라는 생각을 해본다.
 
 
+![enter image description here](https://user-images.githubusercontent.com/37679460/72590792-ef612500-3941-11ea-9768-562e8a73661e.PNG)
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MTA5NzI1LDQ1NDkwNjcxOSwyMDQwNT
-ExNDgxXX0=
+eyJoaXN0b3J5IjpbLTExODA2MjMzMzMsMTU5MTA5NzI1LDQ1ND
+kwNjcxOSwyMDQwNTExNDgxXX0=
 -->
