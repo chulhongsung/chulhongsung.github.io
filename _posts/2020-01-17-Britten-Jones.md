@@ -71,9 +71,9 @@ MSR = Mean^{2} + SD^{2} \\
 u^{\top}u/T = \bar{u}^2 + e^{\top}e/T.
 $$
 
-잔차의 평균, $\bar{u}$는 $\bar{r}^$ 
+잔차의 평균, $\bar{u}$는 $\bar{r}^{\top}\hat{\beta} = 1-\bar{u}$를 만족한다. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDUzODYyODgsNjk3ODM0MzEwLDEzOD
-k2MDM2OTAsNTExNTQxNjQxLDE1OTEwOTcyNSw0NTQ5MDY3MTks
-MjA0MDUxMTQ4MV19
+eyJoaXN0b3J5IjpbLTM0MjkzNDQ1NCw2OTc4MzQzMTAsMTM4OT
+YwMzY5MCw1MTE1NDE2NDEsMTU5MTA5NzI1LDQ1NDkwNjcxOSwy
+MDQwNTExNDgxXX0=
 -->
