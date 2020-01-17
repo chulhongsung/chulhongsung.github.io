@@ -67,13 +67,15 @@ $$
 위의 식을 이용해 Mean squared residual(MSR)은 다음과 같이 나눌 수 있다.
 
 $$
-MSR = Mean^{2} + SD^{2} \\
-u^{\top}u/T = \bar{u}^2 + e^{\top}e/T.
+\begin{aligned}
+MSR &= Mean^{2} + SD^{2} \\
+u^{\top}u/T &= \bar{u}^2 + e^{\top}e/T.
+\end{aligned}
 $$
 
 잔차의 평균, $\bar{u}$는 $\bar{r}^{\top}\hat{\beta} = 1-\bar{u}$를 만족한다. 위의 그림에서 y축에서 '$1-u$' 값을 확인할 수 있다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTYyNjI4MDUsLTg0Nzc5NjcxMyw2OT
-c4MzQzMTAsMTM4OTYwMzY5MCw1MTE1NDE2NDEsMTU5MTA5NzI1
-LDQ1NDkwNjcxOSwyMDQwNTExNDgxXX0=
+eyJoaXN0b3J5IjpbLTEyODQ0NjUxNSwtODQ3Nzk2NzEzLDY5Nz
+gzNDMxMCwxMzg5NjAzNjkwLDUxMTU0MTY0MSwxNTkxMDk3MjUs
+NDU0OTA2NzE5LDIwNDA1MTE0ODFdfQ==
 -->
