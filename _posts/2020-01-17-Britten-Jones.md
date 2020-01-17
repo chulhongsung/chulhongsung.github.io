@@ -16,8 +16,11 @@ tags:
   - 포트폴리오 최적화
 ---
 
-###
+### <span style="color:#F7DC6F;">The Sampling Error in Estimates of Mean-Variance Efficient Portfolio Weights</span>
+
+이 논문은 "Optimal Portfolio Selection using Regularization" 논문을 이해하는데 좋은 참고자료가 되기에 . 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExOTE0MDcxXX0=
+eyJoaXN0b3J5IjpbMTg3NjY1NzMwNl19
 -->
