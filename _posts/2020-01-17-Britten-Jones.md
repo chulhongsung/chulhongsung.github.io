@@ -59,11 +59,18 @@ $$
 잔차 $u$를 평균 $\bar{u}1$와 에러항 $e$로 나눌 수 있다.
 
 $$
-u = 
+u = \bar{u}1 + e,
 $$
 
+여기서 $\bar{u} = (1/T)u^{\top}1$.
+
+위의 식을 이용해 Mean squared residual(MSR)은 다음과 같이 나눌 수 있다.
+
+$$
+MS
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDkzODIwNDEsNjk3ODM0MzEwLDEzOD
-k2MDM2OTAsNTExNTQxNjQxLDE1OTEwOTcyNSw0NTQ5MDY3MTks
-MjA0MDUxMTQ4MV19
+eyJoaXN0b3J5IjpbNzI4MjkwOTM2LDY5NzgzNDMxMCwxMzg5Nj
+AzNjkwLDUxMTU0MTY0MSwxNTkxMDk3MjUsNDU0OTA2NzE5LDIw
+NDA1MTE0ODFdfQ==
 -->
