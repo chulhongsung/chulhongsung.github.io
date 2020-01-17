@@ -47,7 +47,7 @@ $$
 
 (1) 회귀식은 일반적이지 않다. 계수도 없고 종속변수가 랜덤하지 않다. 그리고 $u$ 또한 $R$과 독립이 아니다.
 
-하지만 해석은 매우 쉽다. $R\beta$, 포트폴리오 수익률이 1에 least-squares 거리 기준으로 가깝게 한다. 
+하지만 해석은 매우 쉽다. $R\beta$, 포트폴리오 수익률이 1에 least-squares 거리 기준으로 가깝게 한다.
 
 <span style="color:#DAF7A6;">꼭 1이어야만 하나?<span>
 >논문에서 단순하게 "arbitrage profit"에 대응되는 개념이라고 하는데 양수 수익률과 분산이 0인 수익률로 매우 "desirable" 수익률이라고 소개한다. 1이라는 특정한 값이 중요한 것은 아닌거 같다. 결과를 구해보니 1이었던 것이 아닐까? 라는 생각을 해본다.
@@ -56,9 +56,14 @@ $$
  
 위의 그림에서  x축은 포트폴리오 수익률의 표준편차, y축은 포트폴리오 수익률의 평균이다. $(0,1)$이 있는 곳이 $1_T$를 의미한다고 생각하면 된다(평균수익률은 1이고 표준편차가 0). 그리고 포트폴리오는 C자형 곡선 위를 움직인다. 즉, feasible set이고 feasible set은 원점 $O$와 $d$를 잇는 직선을 상한으로 가진다. 
 
+잔차 $u$를 평균 $\bar{u}1$와 에러항 $e$로 나눌 수 있다.
+
+$$
+u = 
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk3ODM0MzEwLDEzODk2MDM2OTAsNTExNT
-QxNjQxLDE1OTEwOTcyNSw0NTQ5MDY3MTksMjA0MDUxMTQ4MV19
-
+eyJoaXN0b3J5IjpbLTE1MDkzODIwNDEsNjk3ODM0MzEwLDEzOD
+k2MDM2OTAsNTExNTQxNjQxLDE1OTEwOTcyNSw0NTQ5MDY3MTks
+MjA0MDUxMTQ4MV19
 -->
