@@ -46,8 +46,11 @@ $$
 \hat{\beta} = (R^{\top}R)^{-1}R^{\top}1_T.
 $$
 
-(1) 회귀식은 일반적이지 않다. 계수도 없고 종속변수가 랜덤하지 않다. 그리고 $u$ 또한 $R$과 높은 상관계수를 가질 것이다. 
+(1) 회귀식은 일반적이지 않다. 계수도 없고 종속변수가 랜덤하지 않다. 그리고 $u$ 또한 $R$과 독립이 아니다.
+
+하지만 해석은 매우 쉽다. $R\beta$, 포트폴리오 수익률이 1에 가깝게 
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDY5MTc3NDgsMjA0MDUxMTQ4MV19
+eyJoaXN0b3J5IjpbNDU0OTA2NzE5LDIwNDA1MTE0ODFdfQ==
 -->
