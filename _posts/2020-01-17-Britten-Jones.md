@@ -37,17 +37,17 @@ $$
 Theorem 1. OLS regression of a constant $1_T$ onto a set of asset's excess returns $R$, without an intercept term,
 
 $$
-1_T = R\beta + u,
+1_T = R\beta + u, \tag {1}
 $$
 
 에서 회귀계수 추정치 $\hat{\beta}$는 
 
 $$
-\hat{\beta} = (R^{\top}R)^{-1}R^{\top}1_T,
+\hat{\beta} = (R^{\top}R)^{-1}R^{\top}1_T.
 $$
 
-
+(1) 회귀식은 일반적이지 않다. 계수도 없고 종속변수가 확률적
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc5NzYxNjgyLDIwNDA1MTE0ODFdfQ==
+eyJoaXN0b3J5IjpbLTg3NzM1MzM0OSwyMDQwNTExNDgxXX0=
 -->
