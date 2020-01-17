@@ -67,10 +67,13 @@ $$
 위의 식을 이용해 Mean squared residual(MSR)은 다음과 같이 나눌 수 있다.
 
 $$
-MS
+MSR = Mean^{2} + SD^{2} \\
+u^{\top}u/T = \bar{u}^2 + e^{\top}e/T.
 $$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI4MjkwOTM2LDY5NzgzNDMxMCwxMzg5Nj
-AzNjkwLDUxMTU0MTY0MSwxNTkxMDk3MjUsNDU0OTA2NzE5LDIw
-NDA1MTE0ODFdfQ==
+eyJoaXN0b3J5IjpbMTYzMjAzMjQzOCw2OTc4MzQzMTAsMTM4OT
+YwMzY5MCw1MTE1NDE2NDEsMTU5MTA5NzI1LDQ1NDkwNjcxOSwy
+MDQwNTExNDgxXX0=
 -->
