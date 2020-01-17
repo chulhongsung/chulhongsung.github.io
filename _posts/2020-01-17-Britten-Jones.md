@@ -22,7 +22,7 @@ tags:
 
 ###  <span style="color:#00ADB5;"> The Regression Approach to Portfolio Analysis</span>
 
-
+이해하느
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDUxMTQ4MV19
+eyJoaXN0b3J5IjpbLTIxMTkyODQwMzEsMjA0MDUxMTQ4MV19
 -->
