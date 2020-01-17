@@ -40,7 +40,14 @@ $$
 1_T = R\beta + u,
 $$
 
-의 결과
+에서 회귀계수 추정치 $\hat{\beta}$는 
+
+$$
+\hat{\beta} = (R^{\top}R)^{-1}R^{\top}1_T,
+$$
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MDc5NjU4MywyMDQwNTExNDgxXX0=
+eyJoaXN0b3J5IjpbODc5NzYxNjgyLDIwNDA1MTE0ODFdfQ==
 -->
