@@ -46,8 +46,8 @@ $$
 \hat{\beta} = (R^{\top}R)^{-1}R^{\top}1_T.
 $$
 
-(1) 회귀식은 일반적이지 않다. 계수도 없고 종속변수가 확률적
+(1) 회귀식은 일반적이지 않다. 계수도 없고 종속변수가 랜덤하지 않다. 그리고 $u$ 또한 $R$과 높은 상관계수를 가질 것이다. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzM1MzM0OSwyMDQwNTExNDgxXX0=
+eyJoaXN0b3J5IjpbLTE4NDY5MTc3NDgsMjA0MDUxMTQ4MV19
 -->
