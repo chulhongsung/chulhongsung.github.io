@@ -51,10 +51,10 @@ $$
 하지만 해석은 매우 쉽다. $R\beta$, 포트폴리오 수익률이 1에 least-squares 거리 기준으로 가깝게 한다. 
 
 <span style="color:#DAF7A6;">1?<span>
->$1_T$의 의미가 사실 크게 있는지는 모르겠다. s
+>$1_T$의 의미가 사실 크게 있는지는 모르겠다. 논문에서 단순하게 "arbitrage profit"에 대응되는 개념이라고 하는데 양수 수익률과 분산이 0인 수익률로 매우 "desirable" 수익률이라고 소개한다. 큰 의미
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NDA5Mjc5MCw0NTQ5MDY3MTksMjA0MD
-UxMTQ4MV19
+eyJoaXN0b3J5IjpbLTEzMDg0NjY2MzQsNDU0OTA2NzE5LDIwND
+A1MTE0ODFdfQ==
 -->
