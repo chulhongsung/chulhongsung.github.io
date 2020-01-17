@@ -1,4 +1,3 @@
-
 ---
 title: "Britten-Jones(1999) 정리"
 excerpt: "포트폴리오 정규화 방법"
@@ -58,6 +57,6 @@ $$
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODA2MjMzMzMsMTU5MTA5NzI1LDQ1ND
-kwNjcxOSwyMDQwNTExNDgxXX0=
+eyJoaXN0b3J5IjpbNTExNTQxNjQxLDE1OTEwOTcyNSw0NTQ5MD
+Y3MTksMjA0MDUxMTQ4MV19
 -->
