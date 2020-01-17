@@ -54,8 +54,8 @@ $$
 
 ![enter image description here](https://user-images.githubusercontent.com/37679460/72590792-ef612500-3941-11ea-9768-562e8a73661e.PNG)
  
-위의 그림에서  x축은 포트폴리오 수익률의 표준편차, y축은 포트폴리오 수익률의 평균이다. $(0,1)$이 있는 곳이 $1_T$를 의미한다고 생각하면 된다. 평균수익률은 1이고 표준편차가 0이니
+위의 그림에서  x축은 포트폴리오 수익률의 표준편차, y축은 포트폴리오 수익률의 평균이다. $(0,1)$이 있는 곳이 $1_T$를 의미한다고 생각하면 된다(평균수익률은 1이고 표준편차가 0). 그리고 포트폴리오는 C자형 곡선 위를 움직인다. C자형 곡선에서
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5ODAwNzQ5Miw1MTE1NDE2NDEsMTU5MT
+eyJoaXN0b3J5IjpbMTk2NzI3NTE0Niw1MTE1NDE2NDEsMTU5MT
 A5NzI1LDQ1NDkwNjcxOSwyMDQwNTExNDgxXX0=
 -->
