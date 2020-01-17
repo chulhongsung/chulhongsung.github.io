@@ -34,6 +34,13 @@ $$
 R^{\top} = (r_1, \dots, r_{T}).
 $$ 
 
+Theorem 1. OLS regression of a constant $1_T$ onto a set of asset's excess returns $R$, without an intercept term,
+
+$$
+1_T = R\beta + u,
+$$
+
+의 결과
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MTIzMzAwNSwyMDQwNTExNDgxXX0=
+eyJoaXN0b3J5IjpbLTg5MDc5NjU4MywyMDQwNTExNDgxXX0=
 -->
