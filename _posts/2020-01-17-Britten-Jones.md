@@ -48,10 +48,13 @@ $$
 
 (1) 회귀식은 일반적이지 않다. 계수도 없고 종속변수가 랜덤하지 않다. 그리고 $u$ 또한 $R$과 독립이 아니다.
 
-하지만 해석은 매우 쉽다. $R\beta$, 포트폴리오 수익률이 1에 least-squares 거리 기준으로 가깝게 한다. $1_T$의 의미가 사실 크게 있
+하지만 해석은 매우 쉽다. $R\beta$, 포트폴리오 수익률이 1에 least-squares 거리 기준으로 가깝게 한다. 
+
+<span style="color:#DAF7A6;">1?<span>
+>$1_T$의 의미가 사실 크게 있는지는 모르겠다. s
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTAyNDA2NzksNDU0OTA2NzE5LDIwND
-A1MTE0ODFdfQ==
+eyJoaXN0b3J5IjpbLTc0NDA5Mjc5MCw0NTQ5MDY3MTksMjA0MD
+UxMTQ4MV19
 -->
