@@ -49,7 +49,7 @@ $$
 
 하지만 해석은 매우 쉽다. $R\beta$, 포트폴리오 수익률이 1에 least-squares 거리 기준으로 가깝게 한다. 
 
-<span style="color:#DAF7A6;">1?<span>
+<span style="color:#DAF7A6;">꼭 1이어야만 하나?<span>
 >논문에서 단순하게 "arbitrage profit"에 대응되는 개념이라고 하는데 양수 수익률과 분산이 0인 수익률로 매우 "desirable" 수익률이라고 소개한다. 1이라는 특정한 값이 중요한 것은 아닌거 같다. 결과를 구해보니 1이었던 것이 아닐까? 라는 생각을 해본다.
 
 
@@ -57,6 +57,6 @@ $$
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTExNTQxNjQxLDE1OTEwOTcyNSw0NTQ5MD
-Y3MTksMjA0MDUxMTQ4MV19
+eyJoaXN0b3J5IjpbLTE4MTk5MzYxNzIsNTExNTQxNjQxLDE1OT
+EwOTcyNSw0NTQ5MDY3MTksMjA0MDUxMTQ4MV19
 -->
