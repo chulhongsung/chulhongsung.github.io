@@ -1,5 +1,5 @@
 ---
-title: "Britten-Jones(1999) 정리"
+title: "Britten-Jones(1999) 정리(작성중)"
 excerpt: "포트폴리오 정규화 방법"
 toc: true
 toc_sticky: true
@@ -75,7 +75,7 @@ $$
 
 잔차의 평균, $\bar{u}$는 $\bar{r}^{\top}\hat{\beta} = 1-\bar{u}$를 만족한다. 위의 그림에서 y축에서 '$1-u$' 값을 확인할 수 있다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODQ0NjUxNSwtODQ3Nzk2NzEzLDY5Nz
-gzNDMxMCwxMzg5NjAzNjkwLDUxMTU0MTY0MSwxNTkxMDk3MjUs
-NDU0OTA2NzE5LDIwNDA1MTE0ODFdfQ==
+eyJoaXN0b3J5IjpbMTM3NDA2NDExOSwtMTI4NDQ2NTE1LC04ND
+c3OTY3MTMsNjk3ODM0MzEwLDEzODk2MDM2OTAsNTExNTQxNjQx
+LDE1OTEwOTcyNSw0NTQ5MDY3MTksMjA0MDUxMTQ4MV19
 -->
