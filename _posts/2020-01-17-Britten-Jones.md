@@ -78,10 +78,12 @@ $$
 
 ![enter image description here](https://user-images.githubusercontent.com/37679460/72707027-d60ae380-3ba2-11ea-97b7-ca2c1d0e2d54.jpg)
 
-위의 그림에서 $MSR$은 피타고라스 정리에 의해 상한인 직선$\overline{Od}$와 $(0,1)$ 사이의 거리로 표현된다. 따라서 OLS 방법은 MSR을 가장 줄여
+위의 그림에서 $MSR$은 피타고라스 정리에 의해 상한인 직선$\overline{Od}$와 $(0,1)$ 사이의 거리로 표현된다. 
+
+결국 OLS 방법은 $MSR$을 가장 작게하는 $\hat{\beta}$를 찾게 되고 $\hat{\beta}$은 상한과 $()$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ0Mjc4OTIwLC00OTk4NTM2MDcsMTM3ND
-A2NDExOSwtMTI4NDQ2NTE1LC04NDc3OTY3MTMsNjk3ODM0MzEw
-LDEzODk2MDM2OTAsNTExNTQxNjQxLDE1OTEwOTcyNSw0NTQ5MD
-Y3MTksMjA0MDUxMTQ4MV19
+eyJoaXN0b3J5IjpbLTEzNjc3NTg3ODAsLTQ5OTg1MzYwNywxMz
+c0MDY0MTE5LC0xMjg0NDY1MTUsLTg0Nzc5NjcxMyw2OTc4MzQz
+MTAsMTM4OTYwMzY5MCw1MTE1NDE2NDEsMTU5MTA5NzI1LDQ1ND
+kwNjcxOSwyMDQwNTExNDgxXX0=
 -->
