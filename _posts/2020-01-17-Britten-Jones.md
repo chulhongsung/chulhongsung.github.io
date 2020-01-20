@@ -78,11 +78,11 @@ $$
 
 ![enter image description here](https://user-images.githubusercontent.com/37679460/72707027-d60ae380-3ba2-11ea-97b7-ca2c1d0e2d54.jpg)
 
-위의 그림에서 $MSR$은 피타고라스 정리에 의해 상한인 직선$\overline{Od}$와 $(0,1)$ 사이의 거리로 표현된다. 
+위의 그림에서 $MSR$은 피타고라스 정리에 의해 상한인 $\overline{Od}$와 $(0,1)$ 사이의 거리로 표현된다. 
 
-결국 OLS 방법은 $MSR$을 가장 작게하는 $\hat{\beta}$를 찾게 되고 $\hat{\beta}$은 상한과 $()$
+결국 OLS 방법은 $MSR$을 가장 작게하는 $\hat{\beta}$를 찾게 되고 $mean-standard deviation$ 공간은 $\overline{Od}$과 $(0,1)$의 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjc3NTg3ODAsLTQ5OTg1MzYwNywxMz
+eyJoaXN0b3J5IjpbLTE2MTAwMzk2NDQsLTQ5OTg1MzYwNywxMz
 c0MDY0MTE5LC0xMjg0NDY1MTUsLTg0Nzc5NjcxMyw2OTc4MzQz
 MTAsMTM4OTYwMzY5MCw1MTE1NDE2NDEsMTU5MTA5NzI1LDQ1ND
 kwNjcxOSwyMDQwNTExNDgxXX0=
