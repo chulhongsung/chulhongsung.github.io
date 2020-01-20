@@ -73,8 +73,10 @@ u^{\top}u/T &= \bar{u}^2 + e^{\top}e/T.
 $$
 
 잔차의 평균, $\bar{u}$는 $\bar{r}^{\top}\hat{\beta} = 1-\bar{u}$를 만족한다. 위의 그림에서 y축에서 '$1-u$' 값을 확인할 수 있다.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NTcxNzM3OSwxMzc0MDY0MTE5LC0xMj
+eyJoaXN0b3J5IjpbLTQ5OTg1MzYwNywxMzc0MDY0MTE5LC0xMj
 g0NDY1MTUsLTg0Nzc5NjcxMyw2OTc4MzQzMTAsMTM4OTYwMzY5
 MCw1MTE1NDE2NDEsMTU5MTA5NzI1LDQ1NDkwNjcxOSwyMDQwNT
 ExNDgxXX0=
