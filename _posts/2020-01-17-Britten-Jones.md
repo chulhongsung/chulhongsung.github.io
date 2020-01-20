@@ -51,6 +51,8 @@ $$
 
 <span style="color:#DAF7A6;">꼭 1이어야만 하나?<span>
 >논문에서 단순하게 "arbitrage profit"에 대응되는 개념이라고 하는데 양수 수익률과 분산이 0인 수익률로 매우 "desirable" 수익률이라고 소개한다. 1이라는 특정한 값이 중요한 것은 아닌것 같다. 
+
+
 ![mean-sd diagram](https://user-images.githubusercontent.com/37679460/72590792-ef612500-3941-11ea-9768-562e8a73661e.PNG)
  
 위의 그림에서  x축은 포트폴리오 수익률의 표준편차, y축은 포트폴리오 수익률의 평균이다. $(0,1)$이 있는 곳이 $1_T$를 의미한다고 생각하면 된다(평균수익률은 1이고 표준편차가 0). 그리고 포트폴리오는 C자형 곡선 위를 움직인다. 즉, feasible set이고 feasible set은 원점 $O$와 $d$를 잇는 직선을 상한으로 가진다. 
@@ -76,9 +78,9 @@ $$
 
 ![enter image description here](https://user-images.githubusercontent.com/37679460/72707027-d60ae380-3ba2-11ea-97b7-ca2c1d0e2d54.jpg)
 
-위의 그림에서 $MSR$은  상한인 직선$\overline{Od}$와 $(0,1)$ 사이의 거리로 표현된다. 따라서 M
+위의 그림에서 $MSR$은 피타고라스 정리에 의해 상한인 직선$\overline{Od}$와 $(0,1)$ 사이의 거리로 표현된다. 따라서 OLS 방법은 MSR을 가장 줄여
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MDE5NTA1LC00OTk4NTM2MDcsMTM3ND
+eyJoaXN0b3J5IjpbNDQ0Mjc4OTIwLC00OTk4NTM2MDcsMTM3ND
 A2NDExOSwtMTI4NDQ2NTE1LC04NDc3OTY3MTMsNjk3ODM0MzEw
 LDEzODk2MDM2OTAsNTExNTQxNjQxLDE1OTEwOTcyNSw0NTQ5MD
 Y3MTksMjA0MDUxMTQ4MV19
