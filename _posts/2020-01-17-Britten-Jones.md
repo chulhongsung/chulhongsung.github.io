@@ -76,10 +76,10 @@ $$
 
 ![enter image description here](https://user-images.githubusercontent.com/37679460/72707027-d60ae380-3ba2-11ea-97b7-ca2c1d0e2d54.jpg)
 
-위의 그림에서 $MSR$은  상한인 직선$\bar{Od}$
+위의 그림에서 $MSR$은  상한인 직선$\overline{Od}$와 $(0,1)$ 사이의 거리로 표현된다. 따라서  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzg2MDM3NDksLTQ5OTg1MzYwNywxMz
-c0MDY0MTE5LC0xMjg0NDY1MTUsLTg0Nzc5NjcxMyw2OTc4MzQz
-MTAsMTM4OTYwMzY5MCw1MTE1NDE2NDEsMTU5MTA5NzI1LDQ1ND
-kwNjcxOSwyMDQwNTExNDgxXX0=
+eyJoaXN0b3J5IjpbLTY2OTA1ODk3MiwtNDk5ODUzNjA3LDEzNz
+QwNjQxMTksLTEyODQ0NjUxNSwtODQ3Nzk2NzEzLDY5NzgzNDMx
+MCwxMzg5NjAzNjkwLDUxMTU0MTY0MSwxNTkxMDk3MjUsNDU0OT
+A2NzE5LDIwNDA1MTE0ODFdfQ==
 -->
