@@ -83,16 +83,16 @@ $$
 결국 OLS 방법은 $MSR$을 가장 작게하는 $\hat{\beta}$를 찾고 $mean-standard ~ deviation$ 공간(위의 그림에서 C자형 곡선) 위의 점 중에서 $\overline{Od}$과 $(0,1)$의 직교하는 점과 만나는 점을 만족하게 하는 $\beta$가 $\hat{\beta}$이 된다.
 
 <span style="color:#DAF7A6;">$\hat{\beta}$의 의미</span>
+>가능한 포트폴리오 공간에서 $MSR$을 가장 줄여주는 포트폴리오 가중치
 
-
-사실 위의 논문을 읽으면서 1이라는 숫자는 어디에서 나온 것인가를 알 수 있을까 싶어서 읽기 시작했다. 확실하진 않지만 어떤 이유(딱히 큰 이유가 없는듯한)인지는 알 것 같다. 그리고 OLS로 구한 $\hat{\beta}$의 의미(가능한 포트폴리오 공간에서 $MSR$을 가장 줄여주는 포트폴리오 가중치)를 알 수 있었다. 
+사실 위의 논문을 읽으면서 1이라는 숫자는 어디에서 나온 것인가를 알 수 있을까 싶어서 읽기 시작했다. 확실하진 않지만 어떤 이유(딱히 큰 이유가 없는듯한)인지는 알 것 같다. 그리고 OLS로 구한 $\hat{\beta}$의 의미를 알 수 있었다. 
 
 
 
 추가로 궁금한 것은 어떻게 mean-variance 모델의 최적 가중치 $x^*$이 OLS로 구한 $\hat{\beta}$으로 표현되는데 그 식의 해석이다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTY2NDQ0ODAsMjYwNjc2NjA0LC00OT
-k4NTM2MDcsMTM3NDA2NDExOSwtMTI4NDQ2NTE1LC04NDc3OTY3
-MTMsNjk3ODM0MzEwLDEzODk2MDM2OTAsNTExNTQxNjQxLDE1OT
-EwOTcyNSw0NTQ5MDY3MTksMjA0MDUxMTQ4MV19
+eyJoaXN0b3J5IjpbMTA1Mzc0OTc3OSwyNjA2NzY2MDQsLTQ5OT
+g1MzYwNywxMzc0MDY0MTE5LC0xMjg0NDY1MTUsLTg0Nzc5Njcx
+Myw2OTc4MzQzMTAsMTM4OTYwMzY5MCw1MTE1NDE2NDEsMTU5MT
+A5NzI1LDQ1NDkwNjcxOSwyMDQwNTExNDgxXX0=
 -->
