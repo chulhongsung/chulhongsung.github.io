@@ -80,10 +80,10 @@ $$
 
 위의 그림에서 $MSR$은 피타고라스 정리에 의해 상한인 $\overline{Od}$와 $(0,1)$ 사이의 거리로 표현된다. 
 
-결국 OLS 방법은 $MSR$을 가장 작게하는 $\hat{\beta}$를 찾게 되고 $mean-standard deviation$ 공간은 $\overline{Od}$과 $(0,1)$의 
+결국 OLS 방법은 $MSR$을 가장 작게하는 $\hat{\beta}$를 찾고 $mean-standard ~ deviation$ 공간 위의 점 중에서 $\overline{Od}$과 $(0,1)$의 직교하는 점과 만
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTAwMzk2NDQsLTQ5OTg1MzYwNywxMz
-c0MDY0MTE5LC0xMjg0NDY1MTUsLTg0Nzc5NjcxMyw2OTc4MzQz
-MTAsMTM4OTYwMzY5MCw1MTE1NDE2NDEsMTU5MTA5NzI1LDQ1ND
-kwNjcxOSwyMDQwNTExNDgxXX0=
+eyJoaXN0b3J5IjpbMzk0MTk2ODcwLC00OTk4NTM2MDcsMTM3ND
+A2NDExOSwtMTI4NDQ2NTE1LC04NDc3OTY3MTMsNjk3ODM0MzEw
+LDEzODk2MDM2OTAsNTExNTQxNjQxLDE1OTEwOTcyNSw0NTQ5MD
+Y3MTksMjA0MDUxMTQ4MV19
 -->
