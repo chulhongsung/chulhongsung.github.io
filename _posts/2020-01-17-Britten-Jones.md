@@ -72,14 +72,14 @@ u^{\top}u/T &= \bar{u}^2 + e^{\top}e/T.
 \end{aligned}
 $$
 
-잔차의 평균, $\bar{u}$는 $\bar{r}^{\top}\hat{\beta} = 1-\bar{u}$를 만족한다. 위의 그림에서 y축에서 '$1-u$' 값을 확인할 수 있다.
+잔차의 평균, $\bar{u}$는 $\bar{r}^{\top}\hat{\beta} = 1-\bar{u}$를 만족한다. 위의 그림에서 y축에서 '$1-u$' 값을 확인할 수 있다. 그리고 나머지 값들이 모두 determinist 포트폴리오의 표준편차는 $e^{\top}e/T$로 생각할 수 있다. 
 
 ![enter image description here](https://user-images.githubusercontent.com/37679460/72707027-d60ae380-3ba2-11ea-97b7-ca2c1d0e2d54.jpg)
 
 위의 그림에서 $MSR$은  상한인 직선$\overline{Od}$와 $(0,1)$ 사이의 거리로 표현된다. 따라서  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2OTA1ODk3MiwtNDk5ODUzNjA3LDEzNz
-QwNjQxMTksLTEyODQ0NjUxNSwtODQ3Nzk2NzEzLDY5NzgzNDMx
-MCwxMzg5NjAzNjkwLDUxMTU0MTY0MSwxNTkxMDk3MjUsNDU0OT
-A2NzE5LDIwNDA1MTE0ODFdfQ==
+eyJoaXN0b3J5IjpbNzA1NTUzMDIsLTQ5OTg1MzYwNywxMzc0MD
+Y0MTE5LC0xMjg0NDY1MTUsLTg0Nzc5NjcxMyw2OTc4MzQzMTAs
+MTM4OTYwMzY5MCw1MTE1NDE2NDEsMTU5MTA5NzI1LDQ1NDkwNj
+cxOSwyMDQwNTExNDgxXX0=
 -->
