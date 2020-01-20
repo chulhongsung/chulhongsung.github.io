@@ -17,7 +17,7 @@ tags:
 
 ### <span style="color:#F7DC6F;">The Sampling Error in Estimates of Mean-Variance Efficient Portfolio Weights</span>
 -------------
-이 논문은 ["Optimal Portfolio Selection using Regularization"](https://chulhongsung.github.io/논문%20읽기/포트폴리오정규화(1)/) 논문을 이해하는데 좋은 참고자료가 되기에 내용을 정리한다. 1장에서 포트폴리오와 회귀분석과의 관계를 이해시켜준다. 따라서 그 부분만을 정리한다. Notation은 기존의 "Optimal Portfolio Selection using Regularization"의 논문과 동일하다.
+이 논문은 ["Optimal Portfolio Selection using Regularization"](https://chulhongsung.github.io/논문%20읽기/포트폴리오정규화(1)/) 논문을 이해하는데 좋은 참고자료가 되기에 내용을 정리한다. 1장에서 포트폴리오와 회귀분석과의 관계를 이해시키고 있는데 이 부분만을 발췌해서 정리한다. Notation은 기존의 "Optimal Portfolio Selection using Regularization"의 논문과 동일하다.
 
 ###  <span style="color:#00ADB5;"> The Regression Approach to Portfolio Analysis</span>
 ---------------
@@ -86,8 +86,8 @@ $$
 
 추가로 궁금한 것은 어떻게 mean-variance 모델의 최적 가중치 $x^*$이 OLS로 구한 $\hat{\beta}$으로 표현되는데 그 식이 정확하게 의미하는게 무엇인지이다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NDk0NzU4LC00OTk4NTM2MDcsMTM3ND
-A2NDExOSwtMTI4NDQ2NTE1LC04NDc3OTY3MTMsNjk3ODM0MzEw
-LDEzODk2MDM2OTAsNTExNTQxNjQxLDE1OTEwOTcyNSw0NTQ5MD
-Y3MTksMjA0MDUxMTQ4MV19
+eyJoaXN0b3J5IjpbLTE4NzQ2MzY0MjAsLTQ5OTg1MzYwNywxMz
+c0MDY0MTE5LC0xMjg0NDY1MTUsLTg0Nzc5NjcxMyw2OTc4MzQz
+MTAsMTM4OTYwMzY5MCw1MTE1NDE2NDEsMTU5MTA5NzI1LDQ1ND
+kwNjcxOSwyMDQwNTExNDgxXX0=
 -->
