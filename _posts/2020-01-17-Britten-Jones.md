@@ -50,8 +50,7 @@ $$
 하지만 해석은 매우 쉽다. $R\beta$, 포트폴리오 수익률이 1에 least-squares 거리 기준으로 가깝게 한다.
 
 <span style="color:#DAF7A6;">꼭 1이어야만 하나?<span>
->논문에서 단순하게 "arbitrage profit"에 대응되는 개념이라고 하는데 양수 수익률과 분산이 0인 수익률로 매우 "desirable" 수익률이라고 소개한다. 1이라는 특정한 값이 중요한 것은 아닌거 같다. 결과를 구해보니 1이었던 것이 아닐까? 라는 생각을 해본다.
-
+>논문에서 단순하게 "arbitrage profit"에 대응되는 개념이라고 하는데 양수 수익률과 분산이 0인 수익률로 매우 "desirable" 수익률이라고 소개한다. 1이라는 특정한 값이 중요한 것은 아닌것 같다. 
 ![mean-sd diagram](https://user-images.githubusercontent.com/37679460/72590792-ef612500-3941-11ea-9768-562e8a73661e.PNG)
  
 위의 그림에서  x축은 포트폴리오 수익률의 표준편차, y축은 포트폴리오 수익률의 평균이다. $(0,1)$이 있는 곳이 $1_T$를 의미한다고 생각하면 된다(평균수익률은 1이고 표준편차가 0). 그리고 포트폴리오는 C자형 곡선 위를 움직인다. 즉, feasible set이고 feasible set은 원점 $O$와 $d$를 잇는 직선을 상한으로 가진다. 
@@ -75,7 +74,8 @@ $$
 
 잔차의 평균, $\bar{u}$는 $\bar{r}^{\top}\hat{\beta} = 1-\bar{u}$를 만족한다. 위의 그림에서 y축에서 '$1-u$' 값을 확인할 수 있다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NDA2NDExOSwtMTI4NDQ2NTE1LC04ND
-c3OTY3MTMsNjk3ODM0MzEwLDEzODk2MDM2OTAsNTExNTQxNjQx
-LDE1OTEwOTcyNSw0NTQ5MDY3MTksMjA0MDUxMTQ4MV19
+eyJoaXN0b3J5IjpbLTc2NTcxNzM3OSwxMzc0MDY0MTE5LC0xMj
+g0NDY1MTUsLTg0Nzc5NjcxMyw2OTc4MzQzMTAsMTM4OTYwMzY5
+MCw1MTE1NDE2NDEsMTU5MTA5NzI1LDQ1NDkwNjcxOSwyMDQwNT
+ExNDgxXX0=
 -->
