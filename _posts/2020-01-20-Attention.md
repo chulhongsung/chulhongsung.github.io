@@ -1,6 +1,6 @@
 ---
-title: "Attention(작성중)"
-excerpt: "포트폴리오 정규화 방법"
+title: "seq2seq(작성중)"
+excerpt: "seq2seq"
 toc: true
 toc_sticky: true
 use_math: true
@@ -10,10 +10,13 @@ author_profile: true
 date: 2020-01-15 15:00:00 -0000
 
 categories: 
-  - 논문 읽기
+  - 딥러닝
+  - RNN
 tags:
-  - 포트폴리오 최적화
+  - 자연어처리
 ---
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTExMTExMjZdfQ==
+eyJoaXN0b3J5IjpbMTc5OTUxNDgyOF19
 -->
