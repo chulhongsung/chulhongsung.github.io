@@ -74,10 +74,11 @@ $$
 
 잔차의 평균, $\bar{u}$는 $\bar{r}^{\top}\hat{\beta} = 1-\bar{u}$를 만족한다. 위의 그림에서 y축에서 '$1-u$' 값을 확인할 수 있다.
 
-![MSR_description](https://user-images.githubusercontent.com/37679460/72706799-364d5580-3ba2-11ea-849c-1cc8f0a08631.jpg)
+![enter image description here](https://user-images.githubusercontent.com/37679460/72706924-8cba9400-3ba2-11ea-8191-43eac8c97f94.jpg)
+위의 그림에서 $MSR$은  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTUwNjcxNTEsLTQ5OTg1MzYwNywxMz
-c0MDY0MTE5LC0xMjg0NDY1MTUsLTg0Nzc5NjcxMyw2OTc4MzQz
-MTAsMTM4OTYwMzY5MCw1MTE1NDE2NDEsMTU5MTA5NzI1LDQ1ND
-kwNjcxOSwyMDQwNTExNDgxXX0=
+eyJoaXN0b3J5IjpbLTMzNDUyMzM1NiwtNDk5ODUzNjA3LDEzNz
+QwNjQxMTksLTEyODQ0NjUxNSwtODQ3Nzk2NzEzLDY5NzgzNDMx
+MCwxMzg5NjAzNjkwLDUxMTU0MTY0MSwxNTkxMDk3MjUsNDU0OT
+A2NzE5LDIwNDA1MTE0ODFdfQ==
 -->
