@@ -82,10 +82,12 @@ $$
 
 결국 OLS 방법은 $MSR$을 가장 작게하는 $\hat{\beta}$를 찾고 $mean-standard ~ deviation$ 공간(위의 그림에서 C자형 곡선) 위의 점 중에서 $\overline{Od}$과 $(0,1)$의 직교하는 점과 만나는 점을 만족하게 하는 $\beta$가 $\hat{\beta}$이 된다.
 
-사실 위의 논문을 읽으면서 1이라는 숫자는 어디에서 나온 것인가를 알 수 있을까 싶어서 읽기 시작했다. 확실하진 않지만 어떤 이유인지는 알 것 같다. 그리고 위에서 OLS로 구한 $\hat{\beta}  
+사실 위의 논문을 읽으면서 1이라는 숫자는 어디에서 나온 것인가를 알 수 있을까 싶어서 읽기 시작했다. 확실하진 않지만 어떤 이유인지는 알 것 같다. 그리고 뜻 밖에도 OLS로 구한 $\hat{\beta}$의 의미를 알 수 있었다. 
+
+추가로 궁금한 것은 OLS로 구한 mean-variance 모델의 최적 가중치 $x^*$로 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzA2MjA1MzAsLTQ5OTg1MzYwNywxMz
-c0MDY0MTE5LC0xMjg0NDY1MTUsLTg0Nzc5NjcxMyw2OTc4MzQz
-MTAsMTM4OTYwMzY5MCw1MTE1NDE2NDEsMTU5MTA5NzI1LDQ1ND
-kwNjcxOSwyMDQwNTExNDgxXX0=
+eyJoaXN0b3J5IjpbMTc0ODczMDg2MiwtNDk5ODUzNjA3LDEzNz
+QwNjQxMTksLTEyODQ0NjUxNSwtODQ3Nzk2NzEzLDY5NzgzNDMx
+MCwxMzg5NjAzNjkwLDUxMTU0MTY0MSwxNTkxMDk3MjUsNDU0OT
+A2NzE5LDIwNDA1MTE0ODFdfQ==
 -->
