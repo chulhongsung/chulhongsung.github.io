@@ -1,5 +1,5 @@
 ---
-title: "Britten-Jones(1999) 정리(작성중)"
+title: "포트폴리오와 회귀분석과의 관계(Britten-Jones(1999)) "
 excerpt: "포트폴리오 정규화 방법"
 toc: true
 toc_sticky: true
@@ -86,7 +86,7 @@ $$
 
 추가로 궁금한 것은 어떻게 mean-variance 모델의 최적 가중치 $x^*$이 OLS로 구한 $\hat{\beta}$으로 표현되는데 그 식의 해석이다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAwMTcyNTc5LC00OTk4NTM2MDcsMTM3ND
+eyJoaXN0b3J5IjpbMjYwNjc2NjA0LC00OTk4NTM2MDcsMTM3ND
 A2NDExOSwtMTI4NDQ2NTE1LC04NDc3OTY3MTMsNjk3ODM0MzEw
 LDEzODk2MDM2OTAsNTExNTQxNjQxLDE1OTEwOTcyNSw0NTQ5MD
 Y3MTksMjA0MDUxMTQ4MV19
