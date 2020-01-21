@@ -13,9 +13,9 @@ Travel to Shanghai in January 2019 with Lab members.
 
 
 ### Education.
-  - 2012.03 ~ 2018.02 : University of Seoul, South Korea (B.S. in Statistics). 
-  - 2018.03 ~ 2020.02 : University of Seoul, South Korea (M.S. in Statistics).
-  - 2020.03 ~ : University of Seoul, South Korea (Ph.D course).
+  - 2012.03 ~ 2018.02 : University of Seoul, South Korea (B.S. in Statistics)
+  - 2018.03 ~ 2020.02 : University of Seoul, South Korea (M.S. in Statistics)
+  - 2020.03 ~ : University of Seoul, South Korea (Ph.D course)
   
 ----------------
 
