@@ -92,11 +92,13 @@ $$
 $$
 \begin{aligned}
 \hat{x} &= \frac{\hat{\beta}}{\gamma(1-\hat{\mu}^{\top}\hat{\beta})} \\
-&= \frac{\hat{\beta}}{\gamma(1-\bar{u}\hat{\beta})}
+&= \frac{\hat{\beta}}{\gamma\bar{u}}
 \end{aligned}
 $$
+
+이렇게 다시 쓸 수 있는게 아닌가...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTMxODU4NSwxMDUzNzQ5Nzc5LDI2MD
+eyJoaXN0b3J5IjpbLTExNTk0NzkyNiwxMDUzNzQ5Nzc5LDI2MD
 Y3NjYwNCwtNDk5ODUzNjA3LDEzNzQwNjQxMTksLTEyODQ0NjUx
 NSwtODQ3Nzk2NzEzLDY5NzgzNDMxMCwxMzg5NjAzNjkwLDUxMT
 U0MTY0MSwxNTkxMDk3MjUsNDU0OTA2NzE5LDIwNDA1MTE0ODFd
