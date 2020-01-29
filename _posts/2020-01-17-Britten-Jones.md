@@ -98,9 +98,11 @@ $$
 
 이렇게 다시 쓸 수 있는거 같은데 $\bar{u}$가 커지면 $\hat{\beta}$를 감쇠(decay)하는거 같은데 왜 그런것인가... 
 
-###
+### <span style="color:#00ADB5;">References</span>
+----------
+- "The Sampling Error in Estimates of Mean-Variance Efficient Portfolio Weights", 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MTIyNTI0MiwxMDUzNzQ5Nzc5LDI2MD
+eyJoaXN0b3J5IjpbMTQyODgzMzQyMywxMDUzNzQ5Nzc5LDI2MD
 Y3NjYwNCwtNDk5ODUzNjA3LDEzNzQwNjQxMTksLTEyODQ0NjUx
 NSwtODQ3Nzk2NzEzLDY5NzgzNDMxMCwxMzg5NjAzNjkwLDUxMT
 U0MTY0MSwxNTkxMDk3MjUsNDU0OTA2NzE5LDIwNDA1MTE0ODFd
