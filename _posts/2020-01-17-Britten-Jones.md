@@ -100,11 +100,11 @@ $$
 
 ### <span style="color:#00ADB5;">References</span>
 ----------
-- Marjk Britten-Jones, 1999, The Sampling Error in Estimates of Mean-Variance Efficient Portfolio Weights, _The Journal of Finance_.
+- Mark Britten-Jones, 1999, The Sampling Error in Estimates of Mean-Variance Efficient Portfolio Weights, _The Journal of Finance_.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3OTA4MDUyMywxMDUzNzQ5Nzc5LDI2MD
-Y3NjYwNCwtNDk5ODUzNjA3LDEzNzQwNjQxMTksLTEyODQ0NjUx
-NSwtODQ3Nzk2NzEzLDY5NzgzNDMxMCwxMzg5NjAzNjkwLDUxMT
-U0MTY0MSwxNTkxMDk3MjUsNDU0OTA2NzE5LDIwNDA1MTE0ODFd
-fQ==
+eyJoaXN0b3J5IjpbMTA2ODA5NjY1MSwxOTc5MDgwNTIzLDEwNT
+M3NDk3NzksMjYwNjc2NjA0LC00OTk4NTM2MDcsMTM3NDA2NDEx
+OSwtMTI4NDQ2NTE1LC04NDc3OTY3MTMsNjk3ODM0MzEwLDEzOD
+k2MDM2OTAsNTExNTQxNjQxLDE1OTEwOTcyNSw0NTQ5MDY3MTks
+MjA0MDUxMTQ4MV19
 -->
