@@ -100,11 +100,11 @@ $$
 
 ### <span style="color:#00ADB5;">References</span>
 ----------
-- "The Sampling Error in Estimates of Mean-Variance Efficient Portfolio Weights", 
+- MARK BRITTEN-JONES, 1999, The Sampling Error in Estimates of Mean-Variance Efficient Portfolio Weights, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyODgzMzQyMywxMDUzNzQ5Nzc5LDI2MD
-Y3NjYwNCwtNDk5ODUzNjA3LDEzNzQwNjQxMTksLTEyODQ0NjUx
-NSwtODQ3Nzk2NzEzLDY5NzgzNDMxMCwxMzg5NjAzNjkwLDUxMT
-U0MTY0MSwxNTkxMDk3MjUsNDU0OTA2NzE5LDIwNDA1MTE0ODFd
-fQ==
+eyJoaXN0b3J5IjpbLTE2NDg1NTM4NzAsMTA1Mzc0OTc3OSwyNj
+A2NzY2MDQsLTQ5OTg1MzYwNywxMzc0MDY0MTE5LC0xMjg0NDY1
+MTUsLTg0Nzc5NjcxMyw2OTc4MzQzMTAsMTM4OTYwMzY5MCw1MT
+E1NDE2NDEsMTU5MTA5NzI1LDQ1NDkwNjcxOSwyMDQwNTExNDgx
+XX0=
 -->
