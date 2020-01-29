@@ -87,12 +87,18 @@ $$
 
 사실 위의 논문을 읽으면서 1이라는 숫자는 어디에서 나온 것인가를 알 수 있을까 싶어서 읽기 시작했다. 확실하진 않지만 어떤 이유(딱히 큰 이유가 없는듯한)인지는 알 것 같다. 그리고 OLS로 구한 $\hat{\beta}$의 의미를 알 수 있었다. 
 
+계속 궁금한 것은 어떻게 mean-variance 모델의 최적 가중치 $x^*$이 OLS로 구한 $\hat{\beta}$으로 표현되는데 그 식의 해석이다.
 
-
-추가로 궁금한 것은 어떻게 mean-variance 모델의 최적 가중치 $x^*$이 OLS로 구한 $\hat{\beta}$으로 표현되는데 그 식의 해석이다.
+$$
+\begin{aligned}
+\hat{x} &= \frac{\hat{\beta}}{\gamma(1-\hat{\mu}^{\top}\hat{\beta})} \\
+&= \frac{\hat{\beta}}{\gamma(1-\bar{u}\hat{\beta})}
+\end{aligned}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1Mzc0OTc3OSwyNjA2NzY2MDQsLTQ5OT
-g1MzYwNywxMzc0MDY0MTE5LC0xMjg0NDY1MTUsLTg0Nzc5Njcx
-Myw2OTc4MzQzMTAsMTM4OTYwMzY5MCw1MTE1NDE2NDEsMTU5MT
-A5NzI1LDQ1NDkwNjcxOSwyMDQwNTExNDgxXX0=
+eyJoaXN0b3J5IjpbMTU5NTMxODU4NSwxMDUzNzQ5Nzc5LDI2MD
+Y3NjYwNCwtNDk5ODUzNjA3LDEzNzQwNjQxMTksLTEyODQ0NjUx
+NSwtODQ3Nzk2NzEzLDY5NzgzNDMxMCwxMzg5NjAzNjkwLDUxMT
+U0MTY0MSwxNTkxMDk3MjUsNDU0OTA2NzE5LDIwNDA1MTE0ODFd
+fQ==
 -->
