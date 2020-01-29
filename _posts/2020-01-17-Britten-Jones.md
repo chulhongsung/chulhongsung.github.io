@@ -87,7 +87,7 @@ $$
 
 사실 위의 논문을 읽으면서 1이라는 숫자는 어디에서 나온 것인가를 알 수 있을까 싶어서 읽기 시작했다. 확실하진 않지만 어떤 이유(딱히 큰 이유가 없는듯한)인지는 알 것 같다. 그리고 OLS로 구한 $\hat{\beta}$의 의미를 알 수 있었다. 
 
-계속 궁금한 것은 어떻게 mean-variance 모델의 최적 가중치 $x^*$이 OLS로 구한 $\hat{\beta}$으로 표현되는데 그 식의 해석이다.
+계속 궁금한 것은 어떻게 mean-variance 모델의 최적 가중치 $x^*$의 추정치 $\hat{x}$를  OLS로 구한 $\hat{\beta}$으로 표현되는데 그 식의 해석이다.
 
 $$
 \begin{aligned}
@@ -96,9 +96,9 @@ $$
 \end{aligned}
 $$
 
-이렇게 다시 쓸 수 있는게 아닌가...
+이렇게 다시 쓸 수 있는거 같은데 $\bar{u}$와 $\hat{\beta}$의 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTk0NzkyNiwxMDUzNzQ5Nzc5LDI2MD
+eyJoaXN0b3J5IjpbLTE3NTQ5MDQwNiwxMDUzNzQ5Nzc5LDI2MD
 Y3NjYwNCwtNDk5ODUzNjA3LDEzNzQwNjQxMTksLTEyODQ0NjUx
 NSwtODQ3Nzk2NzEzLDY5NzgzNDMxMCwxMzg5NjAzNjkwLDUxMT
 U0MTY0MSwxNTkxMDk3MjUsNDU0OTA2NzE5LDIwNDA1MTE0ODFd
