@@ -23,5 +23,5 @@ Travel to Shanghai in January 2019 with Lab members.
 - ADMM(Alternating Direction Method of Multipliers) algorithm  and its application.
 
 ----------------
-### Computer Language.
+### Computer Languages.
 - R, Python and Julia.
