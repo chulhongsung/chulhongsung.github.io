@@ -26,4 +26,6 @@ Travel to Shanghai in January 2019 with Lab members.
 
 ----------------
 ### Computer Languages.
-- R, Python and Julia.
+- R
+- Python
+- Julia
