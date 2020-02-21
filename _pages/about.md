@@ -21,6 +21,8 @@ Travel to Shanghai in January 2019 with Lab members.
 
 ### Research. 
 - ADMM(Alternating Direction Method of Multipliers) algorithm  and its application.
+- DL(Deep Learning)
+- NLP(Natural Language Processing)
 
 ----------------
 ### Computer Languages.
