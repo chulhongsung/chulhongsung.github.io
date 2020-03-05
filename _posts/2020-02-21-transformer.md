@@ -1,6 +1,6 @@
 ---
 title: "Transformer(계획중)"
-excerpt: "Transformer의 구조"
+excerpt: "Transformer"
 
 
 toc: true
@@ -21,5 +21,5 @@ tags:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjgxOTU1NTMsLTMzMzU5NTI4N119
+eyJoaXN0b3J5IjpbOTcyODMyNjE5LC0zMzM1OTUyODddfQ==
 -->
