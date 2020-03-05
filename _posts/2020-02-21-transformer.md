@@ -1,5 +1,5 @@
 ---
-title: "Transformer(작성중)"
+title: "Transformer(계획중)"
 excerpt: "Transformer의 구조"
 
 
@@ -21,5 +21,5 @@ tags:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMzU5NTI4N119
+eyJoaXN0b3J5IjpbLTY5OTgyOTk1MiwtMzMzNTk1Mjg3XX0=
 -->
