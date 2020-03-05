@@ -9,7 +9,7 @@ use_math: true
 
 author_profile: true
 
-date: 2020-02-21 15:00:00 -0000
+date: 2020-03-21 15:00:00 -0000
 
 categories: 
   - 딥러닝
@@ -21,5 +21,5 @@ tags:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5OTgyOTk1MiwtMzMzNTk1Mjg3XX0=
+eyJoaXN0b3J5IjpbLTEyMjgxOTU1NTMsLTMzMzU5NTI4N119
 -->
