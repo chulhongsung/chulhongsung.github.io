@@ -57,7 +57,7 @@ $$
  
 위의 그림에서  x축은 포트폴리오 수익률의 표준편차, y축은 포트폴리오 수익률의 평균이다. $(0,1)$이 있는 곳이 $1_T$를 의미한다고 생각하면 된다(평균수익률은 1이고 표준편차가 0). 그리고 포트폴리오는 C자형 곡선 위를 움직인다. 즉, feasible set이고 feasible set은 원점 $O$와 $d$를 잇는 직선을 상한으로 가진다. 
 
-잔차 $u$를 평균 $\bar{u}1$와 에러항 $e$로 나눌 수 있다.
+잔차 $u$를 평균 $\bar{u}1$와 에러항 $e$로 나눌 수 있다(마치 One-way ANOVA나 절편만 있는 회귀분석처럼).
 
 $$
 u = \bar{u}1 + e,
@@ -102,9 +102,9 @@ $$
 ----------
 - Mark Britten-Jones, 1999, The Sampling Error in Estimates of Mean-Variance Efficient Portfolio Weights, _The Journal of Finance_.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODA5NjY1MSwxOTc5MDgwNTIzLDEwNT
-M3NDk3NzksMjYwNjc2NjA0LC00OTk4NTM2MDcsMTM3NDA2NDEx
-OSwtMTI4NDQ2NTE1LC04NDc3OTY3MTMsNjk3ODM0MzEwLDEzOD
-k2MDM2OTAsNTExNTQxNjQxLDE1OTEwOTcyNSw0NTQ5MDY3MTks
-MjA0MDUxMTQ4MV19
+eyJoaXN0b3J5IjpbLTE4NTI4NDc5NjIsMTA2ODA5NjY1MSwxOT
+c5MDgwNTIzLDEwNTM3NDk3NzksMjYwNjc2NjA0LC00OTk4NTM2
+MDcsMTM3NDA2NDExOSwtMTI4NDQ2NTE1LC04NDc3OTY3MTMsNj
+k3ODM0MzEwLDEzODk2MDM2OTAsNTExNTQxNjQxLDE1OTEwOTcy
+NSw0NTQ5MDY3MTksMjA0MDUxMTQ4MV19
 -->
