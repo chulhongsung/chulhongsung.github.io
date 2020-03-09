@@ -20,7 +20,7 @@ Travel to Shanghai in January 2019 with Lab members.
 ----------------
 
 ### Research. 
-- ADMM(Alternating Direction Method of Multipliers) algorithm  and its application.
+- Optimization(especially portfolio model).
 - DL(Deep Learning)
 - NLP(Natural Language Processing)
 
@@ -28,4 +28,4 @@ Travel to Shanghai in January 2019 with Lab members.
 ### Computer Languages.
 - R
 - Python
-- Julia(novice)
+- Julia(beginner)
