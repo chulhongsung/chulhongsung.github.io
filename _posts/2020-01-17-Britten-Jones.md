@@ -63,7 +63,7 @@ $$
 u = \bar{u}1 + e,
 $$
 
-여기서 $\bar{u} = (1/T)u^{\top}1$.
+여기서 $\bar{u} = (1/T)u^{\top}1~(\because MSE)$.
 
 위의 식을 이용해 Mean squared residual(MSR)은 다음과 같이 나눌 수 있다.
 
@@ -102,9 +102,9 @@ $$
 ----------
 - Mark Britten-Jones, 1999, The Sampling Error in Estimates of Mean-Variance Efficient Portfolio Weights, _The Journal of Finance_.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTI4NDc5NjIsMTA2ODA5NjY1MSwxOT
-c5MDgwNTIzLDEwNTM3NDk3NzksMjYwNjc2NjA0LC00OTk4NTM2
-MDcsMTM3NDA2NDExOSwtMTI4NDQ2NTE1LC04NDc3OTY3MTMsNj
-k3ODM0MzEwLDEzODk2MDM2OTAsNTExNTQxNjQxLDE1OTEwOTcy
-NSw0NTQ5MDY3MTksMjA0MDUxMTQ4MV19
+eyJoaXN0b3J5IjpbLTg3MjQwMDEwOCwxMDY4MDk2NjUxLDE5Nz
+kwODA1MjMsMTA1Mzc0OTc3OSwyNjA2NzY2MDQsLTQ5OTg1MzYw
+NywxMzc0MDY0MTE5LC0xMjg0NDY1MTUsLTg0Nzc5NjcxMyw2OT
+c4MzQzMTAsMTM4OTYwMzY5MCw1MTE1NDE2NDEsMTU5MTA5NzI1
+LDQ1NDkwNjcxOSwyMDQwNTExNDgxXX0=
 -->
