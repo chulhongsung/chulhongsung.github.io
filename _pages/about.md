@@ -7,6 +7,7 @@ layout: single
 
 
 2019년 1월 연구실 식구들과 상해 여행 중.
+
 Travel to Shanghai, China in January 2019 with Lab members.
 
 # 홍 성 철 (Sung-Chul Hong)
