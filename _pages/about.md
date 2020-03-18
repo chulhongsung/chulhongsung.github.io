@@ -21,7 +21,7 @@ Travel to Shanghai, China in January 2019 with Lab members.
 ----------------
 
 ### Research. 
-- Optimization(especially portfolio model).
+- Optimization(especially portfolio model)
 - DL(Deep Learning)
 - NLP(Natural Language Processing)
 
