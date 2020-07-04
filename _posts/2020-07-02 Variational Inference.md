@@ -20,11 +20,12 @@ tags:
 -------------------------
 
 ## <span style="color:#00ADB5;"> Variational Inference</span>
-베이지안 딥러닝을 공부하다보면 
+베이지 
 
 ### <span style="color:#F7DC6F;">Variational Inference(VI)</span>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTEyMjU1LC03NTA5MjkzOF19
+eyJoaXN0b3J5IjpbLTY2NTk1MjE1MCwtNzc1MTIyNTUsLTc1MD
+kyOTM4XX0=
 -->
