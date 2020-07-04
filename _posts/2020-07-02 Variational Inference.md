@@ -18,7 +18,7 @@ tags:
   - bayesian neural network
 ----
 -------------------------
-베이지안 딥러니
+Variational Autoencoder(VAE)를 공부하기 위해 Google scholar에서 
 ## <span style="color:#00ADB5;"> Variational Inference</span>
  
 
@@ -26,6 +26,6 @@ tags:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4NTgzOTM5LDkyMjY5NTE3NCwxMDczNj
+eyJoaXN0b3J5IjpbOTc3OTYwMzc4LDkyMjY5NTE3NCwxMDczNj
 Q5MzQsLTc3NTEyMjU1LC03NTA5MjkzOF19
 -->
