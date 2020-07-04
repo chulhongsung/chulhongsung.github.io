@@ -18,7 +18,7 @@ tags:
   - bayesian neural network
 ----
 -------------------------
-
+베이지안 딥러니
 ## <span style="color:#00ADB5;"> Variational Inference</span>
  
 
@@ -26,6 +26,6 @@ tags:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIyNjk1MTc0LDEwNzM2NDkzNCwtNzc1MT
-IyNTUsLTc1MDkyOTM4XX0=
+eyJoaXN0b3J5IjpbODI4NTgzOTM5LDkyMjY5NTE3NCwxMDczNj
+Q5MzQsLTc3NTEyMjU1LC03NTA5MjkzOF19
 -->
