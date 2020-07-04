@@ -20,12 +20,12 @@ tags:
 -------------------------
 
 ## <span style="color:#00ADB5;"> Variational Inference</span>
-베이지 
+ 
 
 ### <span style="color:#F7DC6F;">Variational Inference(VI)</span>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NTk1MjE1MCwtNzc1MTIyNTUsLTc1MD
-kyOTM4XX0=
+eyJoaXN0b3J5IjpbMTA3MzY0OTM0LC03NzUxMjI1NSwtNzUwOT
+I5MzhdfQ==
 -->
