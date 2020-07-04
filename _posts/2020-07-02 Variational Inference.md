@@ -16,7 +16,7 @@ categories:
   
 tags:
   - bayesian neural network
-
+----
 -------------------------
 
 ## <span style="color:#00ADB5;"> Variational Inference</span>
@@ -26,6 +26,6 @@ tags:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MzY0OTM0LC03NzUxMjI1NSwtNzUwOT
-I5MzhdfQ==
+eyJoaXN0b3J5IjpbOTIyNjk1MTc0LDEwNzM2NDkzNCwtNzc1MT
+IyNTUsLTc1MDkyOTM4XX0=
 -->
