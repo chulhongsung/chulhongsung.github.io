@@ -20,13 +20,10 @@ Travel to Shanghai, China in January 2019 with Lab members.
   
 ----------------
 
-### Research. 
+### Research Interest. 
 - Optimization
+- Statistical learning
 - Deep Learning
-- Recommender System
+
 
 ----------------
-### Computer Languages.
-- R
-- Python
-- Julia(beginner)
