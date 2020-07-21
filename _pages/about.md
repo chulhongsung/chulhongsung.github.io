@@ -23,7 +23,6 @@ Travel to Shanghai, China in January 2019 with Lab members.
 ### Research Interest. 
 - Optimization
 - Statistical learning
-- Deep Learning
 
 
 ----------------
