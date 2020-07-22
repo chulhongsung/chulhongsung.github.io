@@ -20,7 +20,7 @@ locale                   : "Korea"
 title                    : "chulhongsung"
 title_separator          : "Statistics & Machine Learning"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "홍성철"
+name                     : "홍 성 철"
 description              : "공부하고 공유하는 공간입니다."
 url                      : "https://chulhongsung.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
