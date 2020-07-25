@@ -26,9 +26,15 @@ tags:
 
 ```python
 import torch.nn as nn
-class model(nn.Module)
+
+class model(nn.Module):
+    def __init__(self):
+        super().__init__()
+        self.linear = nn.linear(3, 1)
+
+    def forward(self, x):
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTg1MzMxNTFdfQ==
+eyJoaXN0b3J5IjpbLTI3NDkzMjMxOV19
 -->
