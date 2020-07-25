@@ -19,8 +19,9 @@ tags:
   -  pytorch
 ---
 
-신경망 모형을  Tensorflow를 자주 사용했다. 
+신경망 모형을 만들때 Tensorflow를 자주 사용했다. Tensorflow도 2.0버전이후로는 매우 편리해진 느낌이다.  하지만 아직도 많은 논문들의 구현 코드는 Pytorch로 되어있는 경우가 많고 편리성도 훨씬 뛰어난 느낌이다. 둘 다 사용할 줄 알면 더 좋으니 
+
 ## <span style="color:#00ADB5;"> Variational Inference</span>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MDA1Mzk0OF19
+eyJoaXN0b3J5IjpbLTEzNzQzODg2NzddfQ==
 -->
