@@ -10,7 +10,7 @@ layout: single
 
 Travel to Shanghai, China in January 2019 with Lab members.
 
-# 홍 성 철 (Sung-Chul Hong)
+# 홍 성 철 (SungChul Hong)
 
 
 ### Education.
