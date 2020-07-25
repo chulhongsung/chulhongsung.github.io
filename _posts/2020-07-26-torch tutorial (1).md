@@ -65,9 +65,15 @@ class CustomDataset(Dataset):
         self.x = [[70, 80, 75],[50, 60, 70]]
         self.y = [[80, 65]]
 
-    def forward(self, x):
-        return self.linear(x)
+    def __len__(self):
+        return len(self.x)
+    
+    def __getitem__(self, idx):
+	    x = torch.FloatTensor(self.x[idx])
+	    y = torch.FloatTensor(self.y[idx])
+	    
+	    return x, y
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODkxMTU1MDgsLTI3NDkzMjMxOV19
+eyJoaXN0b3J5IjpbMTA5NTc0NzA1NywtMjc0OTMyMzE5XX0=
 -->
