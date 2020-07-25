@@ -51,6 +51,8 @@ class model(tf.keras.models.Model):
     def call(self, x):
 		return self.linear(x)
 ```
+
+위의 프레임워크들의 magic method들의 이름을 보면 두 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDE1MDcyMDcsLTI3NDkzMjMxOV19
+eyJoaXN0b3J5IjpbLTIwNDIyMTYzMjUsLTI3NDkzMjMxOV19
 -->
