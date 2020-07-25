@@ -46,15 +46,11 @@ from  tensorflow  import  keras
 class model(tf.keras.models.Model):
     def __init__(self): 
         super(model, self).__init__()
-        self.linear = keras.layers.Dense()
-def call(self, data1, data2):
-
-_, lst_hidden, lst_cell_state = self.lstm1(data1)
-
-h_, lst_hidden2, lst_cell_state2 = self.lstm2(data2, initial_state=[lst_hidden, lst_cell_state]) # lstm1의 hidden state와 cell state를 initial state로 받음.
-
-return lst_hidden2, lst_cell_state2
+        self.linear = keras.layers.Dense(1)
+    
+    def call(self, x):
+		return self.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDA0MjMyNTksLTI3NDkzMjMxOV19
+eyJoaXN0b3J5IjpbMTQxMjUyMDM4MiwtMjc0OTMyMzE5XX0=
 -->
