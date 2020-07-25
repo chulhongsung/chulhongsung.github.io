@@ -19,6 +19,8 @@ tags:
   -  pytorch
 ---
 
+신경망 모형을  Tensorflow를 자주 사용했다. 
+## <span style="color:#00ADB5;"> Variational Inference</span>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMzUyNzc0Nl19
+eyJoaXN0b3J5IjpbMTE1MDA1Mzk0OF19
 -->
