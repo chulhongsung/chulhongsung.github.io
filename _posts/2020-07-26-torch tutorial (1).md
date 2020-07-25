@@ -19,9 +19,9 @@ tags:
   -  pytorch
 ---
 
-신경망 모형을 만들때 Tensorflow를 자주 사용했다. Tensorflow도 2.0버전이후로는 매우 편리해진 느낌이다.  하지만 아직도 많은 논문들의 구현 코드는 Pytorch로 되어있는 경우가 많고 편리성도 훨씬 뛰어난 느낌이다. 둘 다 사용할 줄 알면 더 좋으니 Pytorch도 공부하고자 포스팅을 한다.
+신경망 모형을 만들때 Tensorflow를 자주 사용했다. Tensorflow도 2.0버전이후로는 매우 편리해진 느낌이다.  하지만 아직도 많은 논문들의 구현 코드는 Pytorch로 되어있는 경우가 많고 편리성도 훨씬 뛰어난 느낌이다. 둘 다 사용할 줄 알면 더 좋으니 Pytorch도 공부하고자 포스팅을 한다. 공부자료는 유투브 공개강좌인 [모두를 위한 딥러닝 시즌2 - PyTorch](https://www.youtube.com/playlist?list=PLQ28Nx3M4JrhkqBVIXg-i5_CVVoS1UzAv)에서 사용한 소스코드를 사용한다.
 
 ## <span style="color:#00ADB5;"> Pytorch nn.Module</span>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwODk2MzY1Nl19
+eyJoaXN0b3J5IjpbMTA0MjQxNzk1Nl19
 -->
