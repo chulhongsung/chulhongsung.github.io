@@ -69,11 +69,12 @@ class CustomDataset(Dataset):
         return len(self.x)
     
     def __getitem__(self, idx):
-	    x = torch.FloatTensor(self.x[idx])
-	    y = torch.FloatTensor(self.y[idx])
-	    
-	    return x, y
+        x = torch.FloatTensor(self.x[idx])
+        y = torch.FloatTensor(self.y[idx])
+        
+        return x, y
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTc0NzA1NywtMjc0OTMyMzE5XX0=
+eyJoaXN0b3J5IjpbMjA3MjI3NjA0OSwxMDk1NzQ3MDU3LC0yNz
+Q5MzIzMTldfQ==
 -->
