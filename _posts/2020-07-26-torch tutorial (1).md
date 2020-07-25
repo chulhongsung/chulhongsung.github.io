@@ -52,7 +52,7 @@ class model(tf.keras.models.Model):
 		return self.linear(x)
 ```
 
-위의 프레임워크들의 magic method들의 이름을 보면 두 
+위의 프레임워크들의 magic method들의 이름을 보면 둘 다 굉장히 잘 지었다고 생각이 든다. pytorch에서는 신경망에서 순방향으로의 진행을 나타내기위해 'forward'라고 했고 tensorflow 역시 계산을 위해 불러진다면(called) 순방향으로 계산하기 때문에 '
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDIyMTYzMjUsLTI3NDkzMjMxOV19
+eyJoaXN0b3J5IjpbLTE5NDYyNDk1MzEsLTI3NDkzMjMxOV19
 -->
