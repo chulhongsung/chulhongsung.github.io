@@ -1,6 +1,6 @@
 ---
-title:  "Pytorch 튜토리얼 (1)"
-excerpt: Pytorch tutorial (1)
+title:  "PyTorch 튜토리얼 (1)"
+excerpt: PyTorch tutorial (1)
 
 toc: true
 toc_sticky: true
@@ -38,5 +38,5 @@ class model(nn.Module):
         return self.linear(x)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODkyNDg5MTQsLTI3NDkzMjMxOV19
+eyJoaXN0b3J5IjpbLTE0NTkzOTYwMiwtMjc0OTMyMzE5XX0=
 -->
