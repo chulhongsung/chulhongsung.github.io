@@ -29,9 +29,9 @@ tags:
 ```python
 import torch.nn as nn
 
-class model(nn.Module):
+class CustomModel(nn.Module):
     def __init__(self):
-        super(model, self).__init__()
+        super(CustomModel, self).__init__()
         self.linear = nn.linear(3, 1)
 
     def forward(self, x):
@@ -43,9 +43,9 @@ class model(nn.Module):
 ```python
 from  tensorflow  import  keras
 
-class model(tf.keras.models.Model):
+class CustomModel(tf.keras.models.Model):
     def __init__(self): 
-        super(model, self).__init__()
+        super(CustomModel, self).__init__()
         self.linear = keras.layers.Dense(1)
     
     def call(self, x):
@@ -59,7 +59,7 @@ class model(tf.keras.models.Model):
 ```python
 from torch.utils.data import Dataset
 
-class customData(nn.Module):
+class CustomDataset(Dataset):
     def __init__(self):
         super(model, self).__init__()
         self.linear = nn.linear(3, 1)
@@ -68,5 +68,5 @@ class customData(nn.Module):
         return self.linear(x)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE4NzI4Mjg1LC0yNzQ5MzIzMTldfQ==
+eyJoaXN0b3J5IjpbLTE4OTc1OTI1OTEsLTI3NDkzMjMxOV19
 -->
