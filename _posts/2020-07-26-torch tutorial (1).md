@@ -24,6 +24,8 @@ tags:
 먼저 사용자가 custom model의 class를 만드는 것부터 알아보자.
 ## <span style="color:#00ADB5;"> nn.Module</span>
 
+간단한 linear regression model을 생각하자.
+
 ```python
 import torch.nn as nn
 
@@ -36,5 +38,5 @@ class model(nn.Module):
         return self.linear(x)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzg5MjgyOTUsLTI3NDkzMjMxOV19
+eyJoaXN0b3J5IjpbLTE1Nzk5NzgyMTIsLTI3NDkzMjMxOV19
 -->
