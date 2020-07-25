@@ -24,7 +24,7 @@ tags:
 먼저 사용자가 custom model의 class를 만드는 것부터 알아보자.
 ## <span style="color:#00ADB5;"> nn.Module</span>
 
-간단한 linear regression model을 생각하자. 아래의 
+간단한 linear regression model을 생각하자.
 
 ```python
 import torch.nn as nn
@@ -37,6 +37,13 @@ class model(nn.Module):
     def forward(self, x):
         return self.linear(x)
 ```
+
+위의 pytorch 코드와 똑같은 tensorflow 코드를 만들어보자.
+
+```python
+from  tensorflow  import  keras
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTkzOTYwMiwtMjc0OTMyMzE5XX0=
+eyJoaXN0b3J5IjpbLTY0OTU5NDAsLTI3NDkzMjMxOV19
 -->
