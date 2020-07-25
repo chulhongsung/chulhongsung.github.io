@@ -31,7 +31,7 @@ import torch.nn as nn
 
 class model(nn.Module):
     def __init__(self):
-        super().__init__()
+        super(model, self).__init__()
         self.linear = nn.linear(3, 1)
 
     def forward(self, x):
@@ -52,5 +52,5 @@ class model(tf.keras.models.Model):
 		return self.linear(x)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1Mzg4MDA3OCwtMjc0OTMyMzE5XX0=
+eyJoaXN0b3J5IjpbLTExMDE1MDcyMDcsLTI3NDkzMjMxOV19
 -->
