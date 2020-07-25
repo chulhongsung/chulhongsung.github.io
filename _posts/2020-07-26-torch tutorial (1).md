@@ -53,6 +53,20 @@ class model(tf.keras.models.Model):
 ```
 
 위의 프레임워크들의 magic method들의 이름을 보면 둘 다 굉장히 잘 지었다고 생각이 든다. pytorch에서는 신경망에서 순방향으로의 진행을 나타내기위해 'forward'라고 했고 tensorflow 역시 계산을 위해 불러진다면(called) 순방향으로 계산하기 때문에 'call'이라고 한 것 같다. 결론은 똑같다.
+
+## <span style="color:#00ADB5;"> Dataset</span>
+
+```python
+from torch.utils.data import Dataset
+
+class customData(nn.Module):
+    def __init__(self):
+        super(model, self).__init__()
+        self.linear = nn.linear(3, 1)
+
+    def forward(self, x):
+        return self.linear(x)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjU0NDIxNjIsLTI3NDkzMjMxOV19
+eyJoaXN0b3J5IjpbNDE4NzI4Mjg1LC0yNzQ5MzIzMTldfQ==
 -->
