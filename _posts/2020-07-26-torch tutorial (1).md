@@ -33,8 +33,8 @@ class model(nn.Module):
         self.linear = nn.linear(3, 1)
 
     def forward(self, x):
-
+        return self.linear(x)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NDkzMjMxOV19
+eyJoaXN0b3J5IjpbLTEyMzg5MjgyOTUsLTI3NDkzMjMxOV19
 -->
