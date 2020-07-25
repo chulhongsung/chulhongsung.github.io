@@ -61,12 +61,13 @@ from torch.utils.data import Dataset
 
 class CustomDataset(Dataset):
     def __init__(self):
-        super(model, self).__init__()
-        self.linear = nn.linear(3, 1)
+        super(CustomDataset, self).__init__()
+        self.x = [[70, 80, 75],[50, 60, 70]]
+        self.y = [[80, 65]]
 
     def forward(self, x):
         return self.linear(x)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTc1OTI1OTEsLTI3NDkzMjMxOV19
+eyJoaXN0b3J5IjpbLTE1ODkxMTU1MDgsLTI3NDkzMjMxOV19
 -->
