@@ -49,8 +49,8 @@ class model(tf.keras.models.Model):
         self.linear = keras.layers.Dense(1)
     
     def call(self, x):
-		return self.
+		return self.linear(x)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMjUyMDM4MiwtMjc0OTMyMzE5XX0=
+eyJoaXN0b3J5IjpbMTI1Mzg4MDA3OCwtMjc0OTMyMzE5XX0=
 -->
