@@ -94,13 +94,9 @@ dataloader = DataLoader(
 for epoch in range(max_epoch+1):
     for batch_idx, samples in enumerate(dataloader):
     x_train, y_train = samples
-    #
-    #
-#
-
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjQ0ODI0NjIsNzc0NjA0NTY0LDEwOD
-E0OTA1MjcsMTkwNDQ0NTQ0NywxMDk1NzQ3MDU3LC0yNzQ5MzIz
-MTldfQ==
+eyJoaXN0b3J5IjpbNTk1ODI0NTcsNzc0NjA0NTY0LDEwODE0OT
+A1MjcsMTkwNDQ0NTQ0NywxMDk1NzQ3MDU3LC0yNzQ5MzIzMTld
+fQ==
 -->
