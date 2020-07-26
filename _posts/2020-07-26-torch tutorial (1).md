@@ -76,7 +76,7 @@ class CustomDataset(Dataset):
 
 dataset = CustomDataset()
 ```
-위의 class에서 magic method \_\_len\_\_, \_\_getitem\_\_의 역할도 직관적이다. 
+위의 class에서 magic method \_\_len\_\_, \_\_getitem\_\_의 역할도 직관적이다. 이제 DataLoader를 통해 batch size 정하거나 shuffle을 수행할 수 있다.
 
 ```python
 from torch.utils.data import DataLoader
@@ -88,6 +88,6 @@ dataloader = DataLoader(
 )
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTQ5MDUyNywxOTA0NDQ1NDQ3LDEwOT
-U3NDcwNTcsLTI3NDkzMjMxOV19
+eyJoaXN0b3J5IjpbLTI4MTQ4NTMwNSwxMDgxNDkwNTI3LDE5MD
+Q0NDU0NDcsMTA5NTc0NzA1NywtMjc0OTMyMzE5XX0=
 -->
