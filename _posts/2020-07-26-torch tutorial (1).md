@@ -97,9 +97,9 @@ for epoch in range(max_epoch+1):
 ```
 위와 같이 $\textsf{enumerate}$ 함수를 통해서 batch의 index와 데이터 sample을 받을 수 있다.
 
-참고로 Tensorflow2.0에도 [$\textsf{tf.data}$](https://www.tensorflow.org/guide/data)가 있는데 pytorch만큼 쉽지는 않은 것 같다. 링크를 ㄷ 참고하면 도움이 될 듯하다.
+참고로 Tensorflow2.0에도 [$\textsf{tf.data}$](https://www.tensorflow.org/guide/data)가 있는데 pytorch만큼 쉽지는 않은 것 같다. 공식 문서 링크를 걸어놨으니 참고하면 도움이 될 듯하다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTcyNzc4NzQsNTk1ODI0NTcsNzc0Nj
-A0NTY0LDEwODE0OTA1MjcsMTkwNDQ0NTQ0NywxMDk1NzQ3MDU3
-LC0yNzQ5MzIzMTldfQ==
+eyJoaXN0b3J5IjpbMTkwNDQwMjE5Myw1OTU4MjQ1Nyw3NzQ2MD
+Q1NjQsMTA4MTQ5MDUyNywxOTA0NDQ1NDQ3LDEwOTU3NDcwNTcs
+LTI3NDkzMjMxOV19
 -->
