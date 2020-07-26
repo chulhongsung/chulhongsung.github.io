@@ -55,7 +55,7 @@ class CustomModel(tf.keras.models.Model):
 
 ## <span style="color:#00ADB5;"> Dataset</span>
 
-pytorch에서 데이터를 다루는 것도 상당히 편리하다. 
+pytorch에서 데이터를 다루는 것도 상당히 편리하다.
 ```python
 from torch.utils.data import Dataset
 
@@ -74,7 +74,8 @@ class CustomDataset(Dataset):
         
         return x, y
 ```
+위의 class에서 magic method \_\_len__, __getitem__  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTY4OTkwMjEsMTkwNDQ0NTQ0NywxMD
-k1NzQ3MDU3LC0yNzQ5MzIzMTldfQ==
+eyJoaXN0b3J5IjpbODc0OTUwMjc3LDE5MDQ0NDU0NDcsMTA5NT
+c0NzA1NywtMjc0OTMyMzE5XX0=
 -->
