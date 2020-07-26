@@ -91,6 +91,8 @@ dataloader = DataLoader(
 위에서 생성한 _dataloader_ 객체와 $\textsf{enumerate}$ 함수를 통해 학습시에 편리하게 학습을 진행할 수 있다.
 
 ```python
+max_epoch = 10
+
 for epoch in range(max_epoch+1):
     for batch_idx, samples in enumerate(dataloader):
     x_train, y_train = samples
@@ -99,7 +101,7 @@ for epoch in range(max_epoch+1):
 
 참고로 Tensorflow2.0에도 [$\textsf{tf.data}$](https://www.tensorflow.org/guide/data)가 있는데 pytorch만큼 쉽지는 않은 것 같다. 공식 문서 링크를 걸어놨으니 참고하면 도움이 될 듯하다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTc0MjEwMiw1OTU4MjQ1Nyw3NzQ2MD
-Q1NjQsMTA4MTQ5MDUyNywxOTA0NDQ1NDQ3LDEwOTU3NDcwNTcs
-LTI3NDkzMjMxOV19
+eyJoaXN0b3J5IjpbMjk3MjQ1NzMwLDU5NTgyNDU3LDc3NDYwND
+U2NCwxMDgxNDkwNTI3LDE5MDQ0NDU0NDcsMTA5NTc0NzA1Nywt
+Mjc0OTMyMzE5XX0=
 -->
