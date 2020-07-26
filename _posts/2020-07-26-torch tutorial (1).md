@@ -87,7 +87,11 @@ dataloader = DataLoader(
     shuffle=True
 )
 ```
+
+위에서 생성한 dataloader 객체와 _enumerate_ 함수를 통해 학습시에 편리하게 학습을 진행할 수 있다.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MTQ4NTMwNSwxMDgxNDkwNTI3LDE5MD
+eyJoaXN0b3J5IjpbMTk0OTQwNjk3MywxMDgxNDkwNTI3LDE5MD
 Q0NDU0NDcsMTA5NTc0NzA1NywtMjc0OTMyMzE5XX0=
 -->
