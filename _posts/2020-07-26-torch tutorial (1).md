@@ -1,5 +1,5 @@
 ---
-title:  "PyTorch 튜토리얼 (1)"
+title:  "PyTorch 튜토리얼 (1) - class"
 excerpt: PyTorch tutorial (1)
 
 toc: true
@@ -99,7 +99,7 @@ for epoch in range(max_epoch+1):
 
 참고로 Tensorflow2.0에도 [$\textsf{tf.data}$](https://www.tensorflow.org/guide/data)가 있는데 pytorch만큼 쉽지는 않은 것 같다. 공식 문서 링크를 걸어놨으니 참고하면 도움이 될 듯하다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0Mjk4Mjg0Myw1OTU4MjQ1Nyw3NzQ2MD
+eyJoaXN0b3J5IjpbLTQyMTc0MjEwMiw1OTU4MjQ1Nyw3NzQ2MD
 Q1NjQsMTA4MTQ5MDUyNywxOTA0NDQ1NDQ3LDEwOTU3NDcwNTcs
 LTI3NDkzMjMxOV19
 -->
