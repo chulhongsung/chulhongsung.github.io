@@ -1,6 +1,6 @@
 ---
-title:  "PyTorch 튜토리얼 (1) - class"
-excerpt: PyTorch tutorial (1)
+title:  "PyTorch 튜토리얼 (1) "
+excerpt: PyTorch 사용자 정의 모델, 데이터 로드
 
 toc: true
 toc_sticky: true
@@ -101,7 +101,7 @@ for epoch in range(max_epoch+1):
 
 참고로 Tensorflow2.0에도 [$\textsf{tf.data}$](https://www.tensorflow.org/guide/data)가 있는데 pytorch만큼 쉽지는 않은 것 같다. 공식 문서 링크를 걸어놨으니 참고하면 도움이 될 듯하다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk3MjQ1NzMwLDU5NTgyNDU3LDc3NDYwND
+eyJoaXN0b3J5IjpbNjYwNzI3Mjc1LDU5NTgyNDU3LDc3NDYwND
 U2NCwxMDgxNDkwNTI3LDE5MDQ0NDU0NDcsMTA5NTc0NzA1Nywt
 Mjc0OTMyMzE5XX0=
 -->
