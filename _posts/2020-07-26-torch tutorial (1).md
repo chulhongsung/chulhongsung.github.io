@@ -53,7 +53,7 @@ class CustomModel(tf.keras.models.Model):
 
 위의 프레임워크들의 magic method들의 이름을 보면 둘 다 굉장히 잘 지었다고 생각이 든다. pytorch에서는 신경망에서 순방향으로의 진행을 나타내기위해 'forward'라고 했고 tensorflow 역시 계산을 위해 불러진다면(called) 순방향으로 계산하기 때문에 'call'이라고 한 것 같다. 결론은 똑같다.
 
-## <span style="color:#00ADB5;"> $\textsf{Dataset}$ and $\textsf[$</span>
+## <span style="color:#00ADB5;"> $\textsf{Dataset}$ & $\textsf{DataLoader}$</span>
 
 pytorch에서 데이터를 다루는 것도 상당히 편리하다.
 ```python
@@ -88,10 +88,10 @@ dataloader = DataLoader(
 )
 ```
 
-위에서 생성한 $\textsf{dataloader}$ 객체와 $\textsf{enumerate}$ 함수를 통해 학습시에 편리하게 학습을 진행할 수 있다.
+위에서 생성한 _dataloader_ 객체와 $\textsf{enumerate}$ 함수를 통해 학습시에 편리하게 학습을 진행할 수 있다.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMjMzNDQwOSwxMDgxNDkwNTI3LDE5MD
-Q0NDU0NDcsMTA5NTc0NzA1NywtMjc0OTMyMzE5XX0=
+eyJoaXN0b3J5IjpbNzc0NjA0NTY0LDEwODE0OTA1MjcsMTkwND
+Q0NTQ0NywxMDk1NzQ3MDU3LC0yNzQ5MzIzMTldfQ==
 -->
