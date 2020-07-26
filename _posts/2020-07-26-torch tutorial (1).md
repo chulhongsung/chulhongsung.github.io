@@ -95,8 +95,10 @@ for epoch in range(max_epoch+1):
     for batch_idx, samples in enumerate(dataloader):
     x_train, y_train = samples
 ```
+위와 같이 $\textsf{enumerate}$ 함수를 통해서 batch의 index와 데이터 sample을 받을 수 있다.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1ODI0NTcsNzc0NjA0NTY0LDEwODE0OT
-A1MjcsMTkwNDQ0NTQ0NywxMDk1NzQ3MDU3LC0yNzQ5MzIzMTld
-fQ==
+eyJoaXN0b3J5IjpbMzgyNDMxMzE2LDU5NTgyNDU3LDc3NDYwND
+U2NCwxMDgxNDkwNTI3LDE5MDQ0NDU0NDcsMTA5NTc0NzA1Nywt
+Mjc0OTMyMzE5XX0=
 -->
