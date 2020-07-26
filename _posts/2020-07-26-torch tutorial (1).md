@@ -73,9 +73,19 @@ class CustomDataset(Dataset):
         y = torch.FloatTensor(self.y[idx])
         
         return x, y
+
+dataset = CustomDataset()
 ```
-위의 class에서 magic method \_\_len__, __getitem__  
+위의 class에서 magic method \_\_len\_\_, \_\_getitem\_\_의 역할도 직관적이다. 
+
+```python
+from torch.utils.data import DataLoader
+
+dataloader = DataLo
+
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc0OTUwMjc3LDE5MDQ0NDU0NDcsMTA5NT
-c0NzA1NywtMjc0OTMyMzE5XX0=
+eyJoaXN0b3J5IjpbMTM4NDQ2NzcyNywxOTA0NDQ1NDQ3LDEwOT
+U3NDcwNTcsLTI3NDkzMjMxOV19
 -->
