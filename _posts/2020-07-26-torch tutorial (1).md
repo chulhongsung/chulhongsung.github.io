@@ -81,11 +81,13 @@ dataset = CustomDataset()
 ```python
 from torch.utils.data import DataLoader
 
-dataloader = DataLo
-
-
+dataloader = DataLoader(
+    dataset,
+    batch_size=2,
+    shuffle=True
+)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NDQ2NzcyNywxOTA0NDQ1NDQ3LDEwOT
+eyJoaXN0b3J5IjpbMTA4MTQ5MDUyNywxOTA0NDQ1NDQ3LDEwOT
 U3NDcwNTcsLTI3NDkzMjMxOV19
 -->
