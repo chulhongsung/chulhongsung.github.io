@@ -90,8 +90,17 @@ dataloader = DataLoader(
 
 위에서 생성한 _dataloader_ 객체와 $\textsf{enumerate}$ 함수를 통해 학습시에 편리하게 학습을 진행할 수 있다.
 
+```python
+for epoch in range(max_epoch+1):
+    for batch_idx, samples in enumerate(dataloader):
+    x_train, y_train = samples
+    #
+    #
+#
 
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc0NjA0NTY0LDEwODE0OTA1MjcsMTkwND
-Q0NTQ0NywxMDk1NzQ3MDU3LC0yNzQ5MzIzMTldfQ==
+eyJoaXN0b3J5IjpbLTE3MjQ0ODI0NjIsNzc0NjA0NTY0LDEwOD
+E0OTA1MjcsMTkwNDQ0NTQ0NywxMDk1NzQ3MDU3LC0yNzQ5MzIz
+MTldfQ==
 -->
