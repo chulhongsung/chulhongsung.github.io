@@ -55,7 +55,7 @@ class CustomModel(tf.keras.models.Model):
 
 ## <span style="color:#00ADB5;"> $\textsf{Dataset}$, $\textsf{DataLoader}$</span>
 
-pytorch에서 데이터를 다루는 것도 상당히 편리하다.
+pytorch에서 데이터를 다루는 것도 상당히 편리하다. 사용자 정의 데이터도 학습에 용이한 객체로 변환이 쉽다. 다음의 두 class를 이용해보자.
 ```python
 from torch.utils.data import Dataset
 
@@ -101,7 +101,7 @@ for epoch in range(max_epoch+1):
 
 참고로 Tensorflow2.0에도 [$\textsf{tf.data}$](https://www.tensorflow.org/guide/data)가 있는데 pytorch만큼 쉽지는 않은 것 같다. 공식 문서 링크를 걸어놨으니 참고하면 도움이 될 듯하다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MDk1NzA5NCw1OTU4MjQ1Nyw3NzQ2MD
-Q1NjQsMTA4MTQ5MDUyNywxOTA0NDQ1NDQ3LDEwOTU3NDcwNTcs
-LTI3NDkzMjMxOV19
+eyJoaXN0b3J5IjpbLTE5NDA0MTg4MjYsLTY4MDk1NzA5NCw1OT
+U4MjQ1Nyw3NzQ2MDQ1NjQsMTA4MTQ5MDUyNywxOTA0NDQ1NDQ3
+LDEwOTU3NDcwNTcsLTI3NDkzMjMxOV19
 -->
