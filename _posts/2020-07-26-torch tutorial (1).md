@@ -97,11 +97,11 @@ for epoch in range(max_epoch+1):
     for batch_idx, samples in enumerate(dataloader):
     x_train, y_train = samples
 ```
-위와 같이 $\textsf{enumerate}$ 함수를 통해서 _dataloader_의 batch index와 데이터 sample을 받을 수 있다.
+위와 같이 $\textsf{enumerate}$ 함수를 통해서 _dataloader_ 의 batch index와 데이터 sample을 받을 수 있다.
 
 참고로 Tensorflow2.0에도 [$\textsf{tf.data}$](https://www.tensorflow.org/guide/data)가 있는데 pytorch만큼 쉽지는 않은 것 같다. 공식 문서 링크를 걸어놨으니 참고하면 도움이 될 듯하다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3ODU3NTIzNiwtNjgwOTU3MDk0LDU5NT
-gyNDU3LDc3NDYwNDU2NCwxMDgxNDkwNTI3LDE5MDQ0NDU0NDcs
-MTA5NTc0NzA1NywtMjc0OTMyMzE5XX0=
+eyJoaXN0b3J5IjpbNzI0NzA2MjgsLTY4MDk1NzA5NCw1OTU4Mj
+Q1Nyw3NzQ2MDQ1NjQsMTA4MTQ5MDUyNywxOTA0NDQ1NDQ3LDEw
+OTU3NDcwNTcsLTI3NDkzMjMxOV19
 -->
