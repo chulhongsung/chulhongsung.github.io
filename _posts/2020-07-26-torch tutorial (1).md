@@ -19,7 +19,7 @@ tags:
   -  pytorch
 ---
 
-신경망 모형을 만들때 Tensorflow를 자주 사용했다. Tensorflow도 2.0버전이후로는 매우 편리해진 느낌이다.  하지만 아직도 많은 논문들의 구현 코드는 PyTorch로 되어있는 경우가 많고 편리성도 훨씬 뛰어난 느낌이다. 둘 다 사용할 줄 알면 더 좋으니 PyTorch도 공부하고자 포스팅을 한다. 공부자료는 유투브 공개강좌인 [모두를 위한 딥러닝 시즌2 - PyTorch](https://www.youtube.com/playlist?list=PLQ28Nx3M4JrhkqBVIXg-i5_CVVoS1UzAv)에서 사용한 소스코드를 사용한다. 그리고 Tensorflow와의 비교도 하면서 차이점을 알아본다.
+신경망 모형을 만들때 Tensorflow를 자주 사용했다. Tensorflow도 2.0버전이후로는 매우 편리해진 느낌이다.  하지만 아직도 많은 논문들의 구현 코드는 PyTorch로 되어있는 경우가 많은데 그 이유는 아마 편리성과 직관성 때문인 것 같다. 둘 다 사용할 줄 알면 더 좋으니 PyTorch도 공부하고자 포스팅을 한다. 공부자료는 유투브 공개강좌인 [모두를 위한 딥러닝 시즌2 - PyTorch](https://www.youtube.com/playlist?list=PLQ28Nx3M4JrhkqBVIXg-i5_CVVoS1UzAv)에서 사용한 소스코드를 사용한다. 그리고 Tensorflow와의 비교도 하면서 차이점을 알아본다.
 
 ## <span style="color:#00ADB5;"> $\textsf{nn.Module}$</span>
 
@@ -101,7 +101,7 @@ for epoch in range(max_epoch+1):
 
 참고로 Tensorflow2.0에도 [$\textsf{tf.data}$](https://www.tensorflow.org/guide/data)가 있는데 pytorch만큼 쉽지는 않은 것 같다. 공식 문서 링크를 걸어놨으니 참고하면 도움이 될 듯하다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI0NzA2MjgsLTY4MDk1NzA5NCw1OTU4Mj
-Q1Nyw3NzQ2MDQ1NjQsMTA4MTQ5MDUyNywxOTA0NDQ1NDQ3LDEw
-OTU3NDcwNTcsLTI3NDkzMjMxOV19
+eyJoaXN0b3J5IjpbMTkyMjExMTI0NCw3MjQ3MDYyOCwtNjgwOT
+U3MDk0LDU5NTgyNDU3LDc3NDYwNDU2NCwxMDgxNDkwNTI3LDE5
+MDQ0NDU0NDcsMTA5NTc0NzA1NywtMjc0OTMyMzE5XX0=
 -->
