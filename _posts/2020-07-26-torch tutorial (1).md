@@ -8,7 +8,7 @@ use_math: true
 
 author_profile: true
 
-date: 2020-07-26 21:00:00 -0000
+date: 2020-07-26 21:00:00 
 
 categories: 
   - 딥러닝
@@ -101,7 +101,8 @@ for epoch in range(max_epoch+1):
 
 참고로 Tensorflow2.0에도 [$\textsf{tf.data}$](https://www.tensorflow.org/guide/data)가 있는데 pytorch만큼 쉽지는 않은 것 같다. 공식 문서 링크를 걸어놨으니 참고하면 도움이 될 듯하다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjExMTI0NCw3MjQ3MDYyOCwtNjgwOT
-U3MDk0LDU5NTgyNDU3LDc3NDYwNDU2NCwxMDgxNDkwNTI3LDE5
-MDQ0NDU0NDcsMTA5NTc0NzA1NywtMjc0OTMyMzE5XX0=
+eyJoaXN0b3J5IjpbLTg0Nzg2ODczNywxOTIyMTExMjQ0LDcyND
+cwNjI4LC02ODA5NTcwOTQsNTk1ODI0NTcsNzc0NjA0NTY0LDEw
+ODE0OTA1MjcsMTkwNDQ0NTQ0NywxMDk1NzQ3MDU3LC0yNzQ5Mz
+IzMTldfQ==
 -->
