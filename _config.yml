@@ -120,7 +120,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chulhongsung"
-    - label: "Blog"
+    - label: "Velog"
       icon: "fas fa-fw fa-link"
       url: "https://velog.io/@chulhongsung"
 
